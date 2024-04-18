@@ -1,5 +1,7 @@
 ---
 title: "The 4Tris wiki - Home"
+ico_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.ico
+wiki_head_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg
 ---
 
 <p align="center">
@@ -7,28 +9,27 @@ title: "The 4Tris wiki - Home"
 </p>
 
 <h1 align="center">
-  Welcome to <u>The 4Tris</u> franchise official wiki!
+  Welcome to <u>The 4Tris</u> franchise Official Wiki!
 </h1>
 
 ## General Information
 
 <img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/4TrisCover.png?downscale=m">
 
-
 **Reminder: This page assumes you have known things that are mentioned. In a case you don't know; a link to their wiki page is attached so feel free to read them in order to understand it.**
 
-- This page contains no spoilers and mostly origin story of the characters and the reality of this franchise
-- Page content and information will be updated and added as the franchise grow. But no worries as lore will be kept as it is when it is published on this wiki website.
+<disc>
+<ul>
+<li>This page contains no spoilers and mostly origin story of the characters and the reality of this franchise</li>
+<li>Page content and information will be updated and added as the franchise grow. But no worries as lore will be kept as it is when it is published on this wiki website.</li>
+</ul>
+</disc>
 
-**The 4Tris** is a franchise created by [IskandarAlex2](https://twitter.com/Alex2Iskandar). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](./logic/Brain_Crystal.md#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
+**The 4Tris** is a franchise created by [IskandarAlex2](https://twitter.com/Alex2Iskandar). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](./logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
 
-The franchise falls under **Iskyverse** which a universe for IskandarAlex2's original creations where unit of scale is **Iskyverse Unit** (abbreviated as **IU**). Iskyverse Unit ratio to centimeter for real life scale (IU : CM):
+The franchise falls under **Iskyverse** which a universe for IskandarAlex2's original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. Iskyverse Unit ratio to centimeter for real life scale *(IU : CM)* is `1 : 293/6096`
 
-$$
-1 : \frac{293}{6096}
-$$
-
-Developer fact: `1 IU` is equal to `1 m` in [Blender](https://www.blender.org/) on default settings, Sairo model was used for Iskyverse Unit where she is `14.65 IU` tall which is `10 foot`
+Developer fact: `1 IU` is equal to `1 m` in [Blender](https://www.blender.org/) on default settings, Sairo model was used for Iskyverse Unit where she is `14.65 IU` tall which is `10 foot` from head to foot excluding ears
 
 ### Reality Information
 The 4Tris occurs firstly in the real world with science fiction technology and little bit of magic. There is this one thing called **Anomaly Crystals (AC)** which are crystal formed by not atoms but **Hexatoms**, these crystals hold special properties where depending on the Hexatom bonds with other Hexatom and their types. While they're very reproducible with **White-Black Matter Collider** there can only be finite amount of Hexatoms which was estimated to be around `10^50` and if any more were attempted to be created the process will simply return no Hexatom whatsoever. Hexatom will wear off literally from existence but it usually takes a long time.
