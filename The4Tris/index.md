@@ -1,7 +1,9 @@
 ---
-title: "The 4Tris wiki - Home"
+title: The 4Tris wiki - Home
+description: Just 4 blocky cuties doing random shit in a simulation lmfao
 ico_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.ico
 wiki_head_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg
+default_embed_image: https://img.saihex.com/wiki_exclusive/The4Tris/4TrisCover.png?downscale=m
 ---
 
 <p align="center">

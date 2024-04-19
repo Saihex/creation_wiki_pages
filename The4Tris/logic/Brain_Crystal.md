@@ -1,6 +1,6 @@
 ---
-title: "The 4Tris wiki - Brain Crystal"
-description: "Brain Crystal is one of Anomalous Crystal that act as a brain. It is not useful by itself and requires to be attach to a computer to assist them."
+title: The 4Tris wiki - Brain Crystal
+description: Brain Crystal is one of Anomalous Crystal that act as a brain. It is not useful by itself and requires to be attach to a computer to assist them.
 image: https://img.saihex.com/wiki_exclusive/The4Tris/Brain_Crystal_Icon.svg
 ---
 
