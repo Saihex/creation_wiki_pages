@@ -52,7 +52,7 @@ The head also contains basic computer to control the monitor, hearing, vocal, fo
 The Torso contains advanced computer to handle the rest of the body nerve system. While being big, the torso is pretty much overall an empty cavity used as their portable personal storage. The Torso also contains additional computer with strong specs compare to one in the head for their access to the internet, foreign drives, etc. Basically a whole personal computer, in their torso.
 
 ### Arm and hands
-<img align="right" width="126" src="https://img.saihex.com/wiki_exclusive/The4Tris/Sairos_Fingers.png">
+<img align="right" width="126" src="https://img.saihex.com/wiki_exclusive/The4Tris/Sairos_Fingers.png?downscale=s">
 
 Brain Crystal Robot Arm hollow with few small durable cables and component boxes. The hand of a BCR is equipped with Hexatom Mass-Hologram projector which a projector that projects hologram with mass allowing it to interact with objects it touched. Any sensation is still sensible on the fingers just like on the body surface. The fingers are indestructible
 
