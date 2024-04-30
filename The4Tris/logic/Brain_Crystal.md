@@ -1,11 +1,11 @@
 ---
 title: Brain Crystal
 description: Brain Crystal is one of Anomalous Crystal that act as a brain. It is not useful by itself and requires to be attach to a computer to assist them.
-image: https://img.saihex.com/wiki_exclusive/The4Tris/Brain_Crystal_Icon.svg
+image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/brain_crystal.svg
 ---
 
 # Brain Crystal
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/Brain_Crystal_Icon.svg">
+<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/brain_crystal.svg">
 
 **Brain Crystal** *(abbreviated as BC)* is a type of Anomalous Crystal that as the name suggests act as a Brain. This crystal is not capable of anything by itself so it is usually used by attaching it to a robot named [Brain Crystal Robot](#brain-crystal-robot).
 
@@ -28,7 +28,7 @@ No, despite Sairo and Spectra was in fact a AI model turned into Brain Crystal. 
 Brain Crystal was originally named **Artificial Consciousness Crystal** *(abbreviated as ACC)* and BCR was originally **Artificial Consciousness Crystal Robot** *(abbreviated as ACCR)*. Due to this, mention of "ACC" will led to immediate interpretation of Brain Crystal. The name change was because it is easy to misinterpret them as Artificial Intelligence which they are **NOT**.
 
 ## Brain Crystal Robot
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/BCR_Sairo.svg">
+<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/BCR_Sairo.svg">
 
 Brain Crystal Robot *(abbreviated as BCR)* is a robot body made for Brain Crystal so they actually have a body. The material of the body is a [DeltaTungstate-A1](#deltatungstate-a1) with [BCR Nerve Fiber](#bcr-nerve-fiber) in it. The BCR Nerve Fiber controls the metal elasticity as well provides senses same as skin on human. Capability of design allow Brain Crystal Robots to control their skin elasticity meaning despite looks hard and sharp on edges it can be soft as a fabric and can deform like one. It also contracts the metal like a muscle.
 
