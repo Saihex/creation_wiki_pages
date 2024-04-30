@@ -31,6 +31,7 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 
 **The 4Tris** is a franchise created by [IskandarAlex2](https://twitter.com/Alex2Iskandar). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](./logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
 
+### Iskyverse
 The franchise falls under **Iskyverse** which a universe for IskandarAlex2's original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. Iskyverse Unit ratio to centimeter for real life scale *(IU : CM)* is `1 : 293/6096`
 
 Developer fact: `1 IU` is equal to `1 m` in [Blender](https://www.blender.org/) on default settings, Sairo model was used for Iskyverse Unit where she is `14.65 IU` tall which is `10 foot` from head to foot excluding ears
