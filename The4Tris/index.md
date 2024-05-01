@@ -24,10 +24,10 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 **Reminder: This page assumes you have known things that are mentioned. In a case you don't know; a link to their wiki page is attached so feel free to read them in order to understand it.**
 
 <disc>
-<ul>
-<li>This page contains no spoilers and mostly origin story of the characters and the reality of this franchise</li>
-<li>Page content and information will be updated and added as the franchise grow. But no worries as lore will be kept as it is when it is published on this wiki website.</li>
-</ul>
+  <ul>
+    <li>This page contains no spoilers and mostly origin story of the characters and the reality of this franchise</li>
+    <li>Page content and information will be updated and added as the franchise grow. But no worries as lore will be kept as it is when it is published on this wiki website.</li>
+  </ul>
 </disc>
 
 **The 4Tris** is a franchise created by [IskandarAlex2](https://twitter.com/Alex2Iskandar). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](./logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
