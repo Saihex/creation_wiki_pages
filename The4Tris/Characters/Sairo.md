@@ -1,12 +1,12 @@
 ---
 title: Sairo
 description: Sairo, a powerful little Brain Crystal that is also half Reality Bender Crystal. She is one of the four main characters.
-image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo.png
+image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo.png?downscale=fm
 ---
 # Sairo
 <img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo.png">
 
-Sairo is one of the four main characters in The 4Tris. She is a Brain Crystal that is half Reality Bender Crystal which gives her reality bending capabilities. Unfortunately, the simulation prevents her from using all of her abilities due to the unfair advantage it gives her to complete the challenges. One of her power is [SaiHexatom manipulation](#saihexatom-manipulation) where she pretty much have atomic minions that do anything she wanted without limits at all.
+**Sairo** is one of the four main characters in The 4Tris. She is a [Brain Crystal](../logic/Brain_Crystal) that is half Reality Bender Crystal which gives her reality bending capabilities. Unfortunately, the simulation prevents her from using all of her abilities due to the unfair advantage it gives her to complete the challenges. One of her power is [SaiHexatom manipulation](#saihexatom-manipulation) where she pretty much have atomic minions that do anything she wanted without limits at all.
 
 While most of her abilities are locked some of them are still obviously unlocked and sometimes even the locked ones will either be temporarily unlocked or permanently unlocked. Her always unlocked ability is **SaiHexatom Inventory** where she can store anything she wanted in another dimension by simply holding it and teleport it to the dimension. Her wings are also always unlocked but her ability to fly sometimes locked depending on the situation.
 
@@ -15,12 +15,13 @@ While most of her abilities are locked some of them are still obviously unlocked
 | Personality  | Mid-Introvert    |
 | Confidence | Average     |
 | Mind Personality    |  Mid-Dom Feminine   |
-| Soulmate | Spectra |
+| Pronoun | She/Her |
+| Soulmate | [Spectra](../Characters/Spectra) |
 | Species | [Brain Crystal](../logic/Brain_Crystal) |
 | Specialty | [Combat (due to her powers)](#saihexatom-manipulation) |
 | Special Ability | ***Reality Bender*** |
 | Main Character? | Yes |
-| Body Color Hex sRGB | `Left: E885FFFF` `Right: 4CC8FFFF` (multiplied by 6 for material emission) |
+| Body Emission Color Hex sRGB | `Left: E885FFFF` `Right: 4CC8FFFF` (multiplied by 6 for material emission) |
 | Height (head to foot excluding ears) | [14.65 IU](../#iskyverse) or 10 foot |
 | Width (right to left shoulder) | `4 IU` or approximately 83 cm |
 
@@ -43,6 +44,6 @@ Since the signals and power of the sword is sourced from Sairo, the sword can on
 ## The other half (Reality Bender Crystal)
 <img align="right" width="250" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_eyes.png">
 
-From **the origin story**. Even in The 4Tris real life, Sairo's crystal is half Reality Bender Crystal. This was because Crystali had to make her crystal emits the same signals as Brain Crystal, her crystal being half the size of Brain Crystal typical size she decided to make her crystal half Brain Crystal. While Sairo is not Crystali, she still lives in her mind and can sometimes help Sairo during combat. This doesn't break the curse rule because she's not playing entirely but as a assistant which is allowed.
+From [origin story](../Dimensions/the_simulation#origin-story).. Even in The 4Tris real life, Sairo's crystal is half Reality Bender Crystal. This was because Crystali had to make her crystal emits the same signals as Brain Crystal, her crystal being half the size of Brain Crystal typical size she decided to make her crystal half Brain Crystal. While Sairo is not Crystali, she still lives in her mind and can sometimes help Sairo during combat. This doesn't break the curse rule because she's not playing entirely but as a assistant which is allowed.
 
 This does mean Spectra is soulmate to two individual just that the two are in the same body. Lucky gal.

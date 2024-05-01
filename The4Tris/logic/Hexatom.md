@@ -14,7 +14,9 @@ Hexatom only has one state that is solid and will never melt or evaporate no mat
 [Sairo](../Characters/Sairo) who's crystal is partially reality bender crystal have a ability to produce **SaiHexatom**. SaiHexatom is similar to Hexatom but drastically different because it exists upon her command and will do anything that she wanted it to do. Its sizes can change to whatever she wanted and its properties can change to whatever she wanted. This come to the cost of she will lose **mind power** which is different from the energy her crystal provide to the robot body.
 
 ## Hexatom Creation
-Hexatom is created through a process named **White-Black Matter Collision** thus giving the machine doing the process **White-Black Matter Collider** as its name. This process takes consumes a lot of energy at the rate of `20 GW/matter`. The numbers of the matters will define the properties of the produced Hexatom and it will usually produce a perfect cube pure of that Hexatom ranging from `20 cubic centimeter` to `50 cubic centimeter` and it will slowly deforms to a more "stable" crystal structures as these crystal are not structurally stable in a cube shape. The reason remains unknown.
+Hexatom is created through a process named **White-Black Matter Collision** thus giving the machine doing the process **White-Black Matter Collider** as its name. The machine also contains a **Hexatom Anomalous Crystal** named **ExistTal** that makes the white and black matter collision actually produces Hexatom by emitting strange Hexatom Energy unreproducible by any mean other than powering the ExistTal. ExistTal cannot be recreated as it is part of [SaiHexatom Family](#saihexatom-family)
+
+Hexatom creation process consumes a lot of energy at the rate of `20 GW/matter`. The numbers of the matters will define the properties of the produced Hexatom and it will usually produce a perfect cube pure of that Hexatom ranging from `20 cubic centimeter` to `50 cubic centimeter` and it will slowly deforms to a more "stable" crystal structures as these crystal are not structurally stable in a cube shape. The reason remains unknown.
 
 One of the Hexatom simple non-mixture recipe is **ThrustTal** which is a crystal that will accelerate itself towards the direction where electron enters it without needing any medium. Basically means it works inside vacuum. This crystal is created with `20kg` of white matter and `30kg` of black matter
 
@@ -29,3 +31,19 @@ Hexatom will or not change the behavior and properties of the element. For examp
 
 ## Depletion
 Hexatoms do deplete over time either by using it or just existing. Age of Hexatom varies type to type and how it is being used. Hexatom will show degrade over its lifespan in several ways such as poor performance, color change, lose weight, etc. Once Hexatom is completely depleted it can be melted although melting it simply vaporize it from existence. Basically no waste!
+
+## SaiHexatom Family
+<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/SaiHexatom.svg">
+
+**SaiHexatom** is a Hexatom created upon Sairo's power through [SaiHexatom Manipulation](../Characters/Sairo#saihexatom-manipulation). **SaiHexatom Family** cannot be replicated by any means and only one instance of the crystal exists. All SaiHexatom family instances cannot be break apart as it have virtually infinite amount of strength. **SaiHexatom Family** will do anything so at least one individual can reach it like if you were to throw one into a black hole the crystal will blow up the black hole only and after everything cooled the crystal remains intact without any damage. Although, it doesn't care about distance and only path so even if it is 100 lightyears away from nearest individual it will not do anything as path to it exists.
+
+Here are known **SaiHexatom Family Instances**
+- **SaiHexatom**
+  - Exists upon Sairo's command.
+- **Reality Bender Crystal**
+  - Capable of bending reality and control SaiHexatoms.
+- **ExistTal**
+  - Used to create Hexatom Anomalous Crystals.
+- **Crystal of Fairness**
+  - Capable of bending reality to give the owner of the crystal unfair advantages.
+  

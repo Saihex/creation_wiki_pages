@@ -1,12 +1,12 @@
 ---
 title: Silica
 description: Silica, an ordinary Brain Crystal who is one of the four main characters.
-image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png
+image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png?downscale=fm
 ---
 # Silica
 <img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png">
 
-Silica is one of the four main characters. She is a Brain Crystal and originated from The 4Tris real life as Brain Crystal too. She is specialized into mechanic and electronic engineering which make her into making her own electric [motorcycle](#silicycle) inside the simulation where she finally have a body, resources, and a reason to do so. 
+**Silica** is one of the four main characters. She is a [Brain Crystal](../logic/Brain_Crystal) and originated from The 4Tris real life as Brain Crystal too. She is specialized into mechanic and electronic engineering which make her into making her own electric [motorcycle](#silicycle) inside the simulation where she finally have a body, resources, and a reason to do so. 
 
 Other than the two specializes she also have the master skill to sneak pass security without getting caught which what she has been doing to get the necessary components for her [motorcycle](#silicycle). Although, it was Lan Interno's company she was stealing from and Lan pretty much knew it because he felt a bit suspicious of where she could have gotten all the components. So, Lan asked Silica where she got the components and despite being quite a tomboy, she couldn't lie and fell begging for his apologies to which being a lovely soulmate he is, he forgive her.
 
@@ -17,12 +17,13 @@ Her ears serve multiple purposes as it can be a pair of flash light, magnetic ho
 | Personality  | Ambivert    |
 | Confidence | Medium     |
 | Mind Personality    |  High-Dom Feminine   |
-| Soulmate | Lan Interno |
+| Pronoun | She/Her |
+| Soulmate | [Lan Interno](../Characters/Lan_Interno) |
 | Species | [Brain Crystal](../logic/Brain_Crystal) |
 | Specialty | Mechanic and Electronic |
 | Special Skill | Sneak pass anyone or even a security set without getting caught |
 | Main Character? | Yes |
-| Body Color Hex sRGB | `E885FFFF` (multiplied by 6 for material emission) |
+| Body Emission Color Hex sRGB | `E885FFFF` (multiplied by 6 for material emission) |
 | Height (head to foot excluding ears) | [13.7725 IU](../#iskyverse) or approx 9.4 foot |
 | Width (right to left shoulder) | `3.3 IU` or approx 68.65 cm |
 

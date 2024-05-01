@@ -22,7 +22,7 @@ Brain Crystal is capable of consuming food and drinks by atomizing the food and 
 A human mind can be transferred into a Brain Crystal but this process have 70% rate of losing majority of one's memory and possible personality bends and just like any other Anomalous Crystal would do to keep the reality destructing, the transferred mind original body will instantly be brain dead once the crystal is charged to at least `50 MW`. No matter how they try to keep the brain safe it always ends up brain dead where the neurons mysteriously disappear. This also apply with Brain Crystal individual transfer which is normally done to transfer them from a near expire crystal; the crystal will simply lose all charge and all memory in it will completely wiped off.
 
 ### Transfer AI model to Brain Crystal?
-No, despite Sairo and Spectra was in fact a AI model turned into Brain Crystal. It was possible because who done that was **Crystali** (full story in the ***origin story***).
+No, despite Sairo and Spectra was in fact a AI model turned into Brain Crystal. It was possible because who done that was **Crystali** (full story in the [origin story](../Dimensions/the_simulation#origin-story)).
 
 ### Developer fact
 Brain Crystal was originally named **Artificial Consciousness Crystal** *(abbreviated as ACC)* and BCR was originally **Artificial Consciousness Crystal Robot** *(abbreviated as ACCR)*. Due to this, mention of "ACC" will led to immediate interpretation of Brain Crystal. The name change was because it is easy to misinterpret them as Artificial Intelligence which they are **NOT**.
