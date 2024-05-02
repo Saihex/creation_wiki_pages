@@ -12,7 +12,7 @@ While most of her abilities are locked some of them are still obviously unlocked
 
 | Category    | Traits |
 | -------- | ------- |
-| Personality  | Mid-Introvert    |
+| Personality  | Semi-Intro Ambivert    |
 | Confidence | Average     |
 | Mind Personality    |  Mid-Dom Feminine   |
 | Pronoun | She/Her |
@@ -35,14 +35,14 @@ SaiHexatom also forms Sairo's wings and [SaiSword](#saisword) blade by grouping 
 SaiHexatom
 
 ## SaiSword
-<img align="right" width="250" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_saisword.png">
+<img align="right" width="250" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_saisword.png?downscale=fm">
 
 Sairo have a sword named **SaiSword** made by Silica for Sairo. The sword contains a Hexatom Relay Crystal which a crystal that can act as a electronic [relay](https://en.wikipedia.org/wiki/Relay). However, Sairo's Reality Bender Crystal can link to these crystal and turned it into SaiHexatom Link Crystal. These crystal receive and sends signals as well energy from Sairo allowing her to control and power the device at her will. SaiSword blade is SaiHexatom and emits hexagon shaped particles. The blade can pass through objects without damaging it when Sairo wants it to so she can go around and prank her friends of "slicing" them while the sword just pass through them and do nothing to their body.
 
 Since the signals and power of the sword is sourced from Sairo, the sword can only be used by Sairo. Sairo can make the crystal fly towards her at any speed from any direction and locations without limit it can even teleport to her!
 
 ## The other half (Reality Bender Crystal)
-<img align="right" width="250" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_eyes.png">
+<img align="right" width="250" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_eyes.png?downscale=fm">
 
 From [origin story](../Dimensions/the_simulation#origin-story).. Even in The 4Tris real life, Sairo's crystal is half Reality Bender Crystal. This was because Crystali had to make her crystal emits the same signals as Brain Crystal, her crystal being half the size of Brain Crystal typical size she decided to make her crystal half Brain Crystal. While Sairo is not Crystali, she still lives in her mind and can sometimes help Sairo during combat. This doesn't break the curse rule because she's not playing entirely but as a assistant which is allowed.
 

@@ -1,11 +1,12 @@
 ---
 franchise_proper_name: The 4Tris
 title: Home
-description: Just 4 blocky cuties doing random shit while being attached to a computer simulation lmfao
+description: Just 4 blocky cuties doing random things while being attached to a computer simulation lmfao
 ico_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.ico
 wiki_head_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg
 default_embed_image: https://img.saihex.com/wiki_exclusive/The4Tris/4TrisCover.png?downscale=m
 image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
+saihex_creation: true
 ---
 
 <p align="center">

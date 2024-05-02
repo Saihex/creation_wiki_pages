@@ -8,7 +8,7 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silic
 
 **Silica** is one of the four main characters. She is a [Brain Crystal](../logic/Brain_Crystal) and originated from The 4Tris real life as Brain Crystal too. She is specialized into mechanic and electronic engineering which make her into making her own electric [motorcycle](#silicycle) inside the simulation where she finally have a body, resources, and a reason to do so. 
 
-Other than the two specializes she also have the master skill to sneak pass security without getting caught which what she has been doing to get the necessary components for her [motorcycle](#silicycle). Although, it was Lan Interno's company she was stealing from and Lan pretty much knew it because he felt a bit suspicious of where she could have gotten all the components. So, Lan asked Silica where she got the components and despite being quite a tomboy, she couldn't lie and fell begging for his apologies to which being a lovely soulmate he is, he forgive her.
+Other than the two specializes she also have the master skill to sneak pass security without getting caught which what she has been doing to get the necessary components for her [motorcycle](#silicycle). Although, it was Lan Interno's company she was stealing from and Lan pretty much knew it because he felt a bit suspicious of where she could have gotten all the components. So, Lan asked Silica where she got the components and despite being quite a tomboy, she couldn't lie and fell begging for his apologies to which being a lovely soulmate he is, he forgive her and helped her to finish it.
 
 Her ears serve multiple purposes as it can be a pair of flash light, magnetic holder, DC power supply, and FM/AM antenna.
 
@@ -28,9 +28,9 @@ Her ears serve multiple purposes as it can be a pair of flash light, magnetic ho
 | Width (right to left shoulder) | `3.3 IU` or approx 68.65 cm |
 
 ## SiliCycle
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Front.png">
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Back.png">
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Monitor.png">
+<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Front.png?downscale=fm">
+<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Back.png?downscale=fm">
+<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Monitor.png?downscale=fm">
 
 Pronounced `Silly Cycle`. SiliCycle is an electric motorcycle created by Silica inside the simulation to be used in their missions. SiliCycle can reach speed up to `1500 KM/h` or approximately `932 mph` thanks to the mini ion thruster that is placed at the rear of the motorcycle. Because of these unlawful unsafe capabilities, Silica implemented a "lawful mode" which limit the motorcycle speed to only `110 km/h` or about `68.35 mph`.
 
