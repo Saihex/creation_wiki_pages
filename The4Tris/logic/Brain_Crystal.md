@@ -32,12 +32,12 @@ Brain Crystal was originally named **Artificial Consciousness Crystal** *(abbrev
 
 Brain Crystal Robot *(abbreviated as BCR)* is a robot body made for Brain Crystal so they actually have a body. The material of the body is a [DeltaTungstate-A1](#deltatungstate-a1) with [BCR Nerve Fiber](#bcr-nerve-fiber) in it. The BCR Nerve Fiber controls the metal elasticity as well provides senses same as skin on human. Capability of design allow Brain Crystal Robots to control their skin elasticity meaning despite looks hard and sharp on edges it can be soft as a fabric and can deform like one. It also contracts the metal like a muscle.
 
-In the real world *(The 4Tris real world)*, BCR does not exists and only Brain Crystals. BCR existence is only in Lan's simulation.
+In [The 4Tris Real Life](../Dimensions/real_life), BCR does not exists and only Brain Crystals. BCR existence is only in Lan's simulation.
 
 ### Joints
-Brain Crystal Robot body parts that is the arms, legs, torso, and head. Is modular and detachable. The body parts are connected and held by a Hexatom Grip System where a block of specific Hexatom alloy is the holder, by having current through the block it will become sort of a liquid but will hold strong to whatever object that got into it. By applying voltage difference on the sides, the block will rotate objects accordingly which allows the smooth and flexible movement of the arms to the torso. While it holds strong without any input, complete lost of power through it will make it lose grip over the rotation of the object, still holding strong but the object will rotate around without any resistance.
+Brain Crystal Robot body parts specifically arms, legs, torso, and head are modular and detachable. The body parts are connected and held by a Hexatom Grip System where a block of specific Hexatom alloy is the holder, by having current through the block it will become sort of a liquid but will hold strong to whatever object that got into it. By applying voltage difference on the sides, the block will rotate objects accordingly which allows the smooth and flexible movement of the arms to the torso. While it holds strong without any input, complete lost of power through it will make it lose grip over the rotation of the object, still holding strong but the object will rotate around without any resistance.
 
-Data and power connection is simply done by using Hexatom peer to peer data-power share where 2 specific Hexatom is placed near with each other and they will act as a wireless connection to share power and signals. They're placed so close that even if you have the right Hexatom it will need to open their torso to actually hijack their body joint connection.
+Data and power connection is simply done by using Hexatom peer to peer data-power share where two specific Hexatom is placed near with each other and they will act as a wireless connection to share power and signals. They're placed so close that even if you have the right Hexatom it will need to open their torso to actually hijack their body joint connection. Besides, the crystal will not accept other connections unless one of the pair completely lost power.
 
 ### Head
 The Brain Crystal is located inside the head within a vessel where millions of nano cables connects to the crystal used to send and receive signals. There is also 2 large cables connected to the crystal used for power connection.
@@ -54,12 +54,12 @@ The Torso contains advanced computer to handle the rest of the body nerve system
 ### Arm and hands
 <img align="right" width="126" src="https://img.saihex.com/wiki_exclusive/The4Tris/Sairos_Fingers.png?downscale=s">
 
-Brain Crystal Robot Arm hollow with few small durable cables and component boxes. The hand of a BCR is equipped with Hexatom Mass-Hologram projector which a projector that projects hologram with mass allowing it to interact with objects it touched. Any sensation is still sensible on the fingers just like on the body surface. The fingers are indestructible
+Brain Crystal Robot arms are hollow with few small durable cables and component boxes inside. The hand of a BCR is equipped with Hexatom Mass-Hologram projector which a projector that projects hologram with mass allowing it to interact with objects it touched. Any sensation is still sensible on the fingers just like on the body surface. The fingers are indestructible
 
 The hand is also equipped with a heating system in case they ever need to heat things up.
 
 ### DeltaTungstate-A1
-DeltaTungstate-A1 is a Hexatom-Tungsten Alloy that is reactive towards steady current changes where the the higher the current is the more elastic it becomes.
+DeltaTungstate-A1 is a Hexatom-Tungsten Alloy that is reactive towards steady current changes where the higher the current is the more elastic it becomes.
 DeltaTungstate-A1 can also act as a muscle by reacting to `500 GHz` signals where voltage between `0 - 50 VDC` causes it to tighten and `50 - 100 VDC` causes it to do the opposite.
 
 ### BCR Nerve Fiber

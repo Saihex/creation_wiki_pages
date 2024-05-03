@@ -6,7 +6,7 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo
 # Sairo
 <img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo.png">
 
-**Sairo** is one of the four main characters in The 4Tris. She is a [Brain Crystal](../logic/Brain_Crystal) that is half Reality Bender Crystal which gives her reality bending capabilities. Unfortunately, the simulation prevents her from using all of her abilities due to the unfair advantage it gives her to complete the challenges. One of her power is [SaiHexatom manipulation](#saihexatom-manipulation) where she pretty much have atomic minions that do anything she wanted without limits at all.
+**Sairo** is one of the four main characters in The 4Tris. She is a [Brain Crystal](../logic/Brain_Crystal) that is half Reality Bender Crystal which gives her reality bending capabilities. Unfortunately, [The Simulation](../Dimensions/the_simulation) prevents her from using all of her abilities due to the unfair advantage it gives her to complete the challenges. One of her power is [SaiHexatom manipulation](#saihexatom-manipulation) where she pretty much have atomic minions that do anything she wanted without limits at all.
 
 While most of her abilities are locked some of them are still obviously unlocked and sometimes even the locked ones will either be temporarily unlocked or permanently unlocked. Her always unlocked ability is **SaiHexatom Inventory** where she can store anything she wanted in another dimension by simply holding it and teleport it to the dimension. Her wings are also always unlocked but her ability to fly sometimes locked depending on the situation.
 
@@ -32,8 +32,6 @@ One of Sairo's power is **SaiHexatom Manipulation**. SaiHexatom is one of [Hexat
 
 SaiHexatom also forms Sairo's wings and [SaiSword](#saisword) blade by grouping together in a four-dimensional grid. In a grid SaiHexatom produces a [Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) texture which gives them a way to be differentiated between atoms and Hexatoms. The texture looked to be in a three-dimensional pattern relative to the world so when the Hexatom moves the texture moves too thus making it suspected to be a slice of two-dimensional view of a three-dimensional Voronoi structure. SaiHexatom also have a distinct color of between bright light-pink and dark light-pink. SaiHexatom surface can be soft or hard depending on what Sairo wants it to but usually mid-soft like a high-quality spring mattress.
 
-SaiHexatom
-
 ## SaiSword
 <img align="right" width="250" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_saisword.png?downscale=fm">
 
@@ -44,6 +42,6 @@ Since the signals and power of the sword is sourced from Sairo, the sword can on
 ## The other half (Reality Bender Crystal)
 <img align="right" width="250" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_eyes.png?downscale=fm">
 
-From [origin story](../Dimensions/the_simulation#origin-story).. Even in The 4Tris real life, Sairo's crystal is half Reality Bender Crystal. This was because Crystali had to make her crystal emits the same signals as Brain Crystal, her crystal being half the size of Brain Crystal typical size she decided to make her crystal half Brain Crystal. While Sairo is not Crystali, she still lives in her mind and can sometimes help Sairo during combat. This doesn't break the curse rule because she's not playing entirely but as a assistant which is allowed.
+From [origin story](../Dimensions/the_simulation#origin-story). Even in [The 4Tris Real Life](../Dimensions/real_life), Sairo's crystal is half Reality Bender Crystal. This was because Crystali wanted to help Silica and Lan, her crystal being half the size of Brain Crystal typical size she decided to make her crystal half Brain Crystal. While Sairo is not Crystali, she still lives in her mind and can sometimes help Sairo during combat. This doesn't break the curse rule because she's not playing entirely but as a assistant which is allowed.
 
 This does mean Spectra is soulmate to two individual just that the two are in the same body. Lucky gal.
