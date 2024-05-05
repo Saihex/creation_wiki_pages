@@ -43,13 +43,13 @@ The 4Tris occurs firstly in the real world with science fiction technology and l
 
 ### General character Information
 *For more information of the characters please read their wiki page*
-- **Lan Interno**
+- [Lan Interno](The4Tris/Characters/Lan_Interno)
   - Lan Interno was a engineered creature that was given bionic enhancement. He was from [The 4Tris Real Life](The4Tris/Dimensions/real_life) and turned into BCR during the [origin story](The4Tris/Dimensions/the_simulation#origin-story). He has relationship with Silica as soulmate.
-- **Silica**
+- [Silica](The4Tris/Characters/Silica)
   - Silica was a Brain Crystal *(without robot body)* who was attached to Lan's ship during in the [The 4Tris Real Life](The4Tris/Dimensions/real_life) times as his assistant, after a while she [fallen for Lan](The4Tris/Dimensions/real_life#lan-meeting-silica) and become his soulmate. If it wasn't clear, she was from the [The 4Tris Real Life](The4Tris/Dimensions/real_life).
-- **Spectra**
+- [Spectra](The4Tris/Characters/Spectra)
   - Spectra is a Brain Crystal Robot who was just a AI model in Lan's simulation but turned into Brain Crystal during the [origin story](The4Tris/Dimensions/the_simulation#origin-story). Despite designed male, he has quite a lot of female attributes and prefer any pronouns but called with "He" due to his appearance. He has relationship with Sairo as soulmate.
-- **Sairo**
+- [Sairo](The4Tris/Characters/Sairo)
   - Sairo is a Brain Crystal Robot who was just a AI model in Lan's simulation but without any data other than her intended personality traits. She turned into a Brain Crystal but her crystal was half Reality Bender Crystal during the [origin story](The4Tris/Dimensions/the_simulation#origin-story).
 
 After the [origin story](The4Tris/Dimensions/the_simulation#origin-story), they all are Brain Crystal Robot within Lan's simulation to help Crystali with her curse.
