@@ -10,6 +10,11 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/dimensions/real_
 
 In this dimension, [Hexatom](../logic/Hexatom) was a scarce resource and the company that was responsible for producing them have trouble of kept being attacked because enemies wanted to make it for themselves despite that is a universal crime. Meanwhile, [Brain Crystal Robot](../logic/Brain_Crystal#brain-crystal-robot) does not exists at all and only the [Brain Crystal](../logic/Brain_Crystal).
 
+## The Cruel World
+**The 4Tris Real Life** is cruel dimension. All parties in the interstellar are fighting and having war with each other because of greeds. [Lan](../Characters/Lan_Interno) was lucky to be made by a party that was made to stop the interstellar pirates and revive peace. When [Lan](../Characters/Lan_Interno) was on his mission, he stopped `720` interstellar pirates and saved `1,257` small parties who kept being attacked by the pirates. He was praised as **Peace boy** alongside his assistant [Silica](../Characters/Silica) who was praised as **Peace girl**.
+
+Unfortunately, all the parties that Lan saved suddenly disappeared and stop contacting him. [Silica](../Characters/Silica) suggest him that it is better to not check on them because they're probably attacked and delete all contacts and information about them to protect them.
+
 ## Lan meeting Silica
 After Lan finished his training and passed all test he was sent to his lifetime job of going out and research planets. He was given a ship and a Brain Crystal named **Silica** as his assistant that attach to the ship computer. **At first** Silica wasn't happy and worried because all of her other Brain Crystal friends said that their commander are very bad in so many ways so Silica was trying to make Lan hate her that he will replace her with another Brain Crystal.
 
