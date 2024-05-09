@@ -34,9 +34,18 @@ saihex_creation: true
 **The 4Tris** is a franchise created by [IskandarAlex2](https://twitter.com/Alex2Iskandar). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](The4Tris/logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
 
 ### Iskyverse
-The franchise falls under **Iskyverse** which a universe for IskandarAlex2's original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. Iskyverse Unit ratio to centimeter for real life scale *(IU : CM)* is `1 : 293/6096`. Iskyverse Unit ratio can also be simplified with foot *(IU : Foot)* `14.65 : 10` or with centimeter *(IU : CM)* `14.65 : 304.8`
+The franchise falls under **Iskyverse** which a universe for IskandarAlex2's original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. 
 
-Developer fact: `1 IU` is equal to `1 m` in [Blender](https://www.blender.org/) on default settings, Sairo model was used for Iskyverse Unit where she is `14.65 IU` tall which is `10 foot` from head to foot excluding ears
+<u>**Iskyverse Unit (IU) ratios**</u>
+- `1 IU : (293/6096) cm`
+- `14.65 IU : 10 foot`
+- `14.65 IU : 304.8 cm`
+
+Developer facts:
+
+- `1 IU` is equal to `1 m` in [Blender](https://www.blender.org/) on default settings
+
+- Sairo model was used for Iskyverse Unit where she is `14.65 IU` tall which is `10 foot` from head to foot excluding ears
 
 ### Reality Information
 The 4Tris occurs firstly in the real world with science fiction technology and little bit of magic. There is this one thing called [Anomalous Crystals](The4Tris/logic/Hexatom) which are crystal formed by not atoms but [Hexatoms](The4Tris/logic/Hexatom), these crystals hold special properties where depending on the Hexatom bonds with other Hexatom and their types. You can read the page about Hexatoms for more information regarding it.
@@ -52,4 +61,4 @@ The 4Tris occurs firstly in the real world with science fiction technology and l
 - [Sairo](The4Tris/Characters/Sairo)
   - Sairo is a Brain Crystal Robot who was just a AI model in Lan's simulation but without any data other than her intended personality traits. She turned into a Brain Crystal but her crystal was half Reality Bender Crystal during the [origin story](The4Tris/Dimensions/the_simulation#origin-story).
 
-After the [origin story](The4Tris/Dimensions/the_simulation#origin-story), they all are Brain Crystal Robot within Lan's simulation to help Crystali with her curse.
+After the [origin story](The4Tris/Dimensions/the_simulation#origin-story), they all are Brain Crystal Robot within Lan's simulation to help [Crystali with her curse.](The4Tris/Dimensions/the_simulation#crystali-and-her-curse)

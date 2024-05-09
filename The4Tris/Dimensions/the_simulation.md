@@ -21,6 +21,20 @@ This gave Crystali an idea to which she created two Brain Crystals, one is Spect
 
 Right before Lan went into decomposition containment vessel he asked Crystali what about the ship to which she responded that while they're in the simulation magical Hexatom energy will maintain the ship power and structure throughout the simulation. Lan continued to go into the decomposition containment vessel and asked Crystali to press the button. Crystali pressed the button and Lan drop dead to the floor of the vessel and Crystali fizzles out.
 
+## Origin story summary
+Summarization of the origin story for those who are lazy or not bothered to read it. Or can't comprehend it which we fully understand.
+
+### Lan Interno and Silica's origin
+**Lan Interno** and **Silica** are from [The 4Tris Real Life](../Dimensions/real_life) and while Silica was already a [Brain Crystal](../logic/Brain_Crystal) [Lan Interno](../Characters/Lan_Interno) was not. He was turned into one prior to **The Simulation** by Crystali
+
+### Crystali and her curse
+**Crystali** is the **Reality Bender Crystal**. She was cursed that she unable to use her powers preventing her from protecting the universe from heat death.
+
+The curse can be broken by putting an individual or a group into a simulation with predefined challenges and obstacles. Lan's simulation just happened to met with the rules.
+
+### Spectra and Sairo
+[Spectra](../Characters/Spectra) and [Sairo](../Characters/Sairo) are from Lan's simulation that made into a real [Brain Crystal](../logic/Brain_Crystal) by **Crystali**. Spectra is a normal Brain Crystal while Sairo is half **Reality Bender Crystal** or Crystali, she is two persons in one.
+
 ## Their goal within the simulation
 Their mission inside the simulation is to take all 8 stolen [SaiHexatom Family](../logic/Hexatom#saihexatom-family) crystals that will be used to activate a very powerful machine that breaks any simulation medium. This will break Crystali's curse and allow her to fix the universe.
 
