@@ -13,4 +13,4 @@ This work is licensed under a
 ## Information:
 This repository is the source files for the Saihex Studios' Wiki Website. All markdown files are licensed under [CC BY-NC-SA 4.0][cc-by-nc-sa] unless otherwise noted. **This license still applies on the wiki website pages.**
 
-All lore and stories that are committed to the `master` branch will become their lore and stories and cannot be removed nor changed. This statement is still inactive and will remain inactive until said otherwise by `IskandarAlex2`.
+All lore and stories that are committed to the `master` branch will become their lore and stories and cannot be removed nor changed. **This statement is still inactive and will remain inactive until said otherwise by [IskandarAlex2](https://github.com/IskandarAlex2).**

@@ -31,10 +31,10 @@ saihex_creation: true
   </ul>
 </disc>
 
-**The 4Tris** is a franchise created by [IskandarAlex2](https://twitter.com/Alex2Iskandar). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](The4Tris/logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
+**The 4Tris** is a franchise created by [IskandarAlex2](https://github.com/IskandarAlex2). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](The4Tris/logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
 
 ### Iskyverse
-The franchise falls under **Iskyverse** which a universe for IskandarAlex2's original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. 
+The franchise falls under **Iskyverse** which a universe for [IskandarAlex2](https://github.com/IskandarAlex2)'s original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. 
 
 <u>**Iskyverse Unit (IU) ratios**</u>
 - `1 IU : (293/6096) cm`
