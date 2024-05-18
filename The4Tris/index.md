@@ -31,7 +31,7 @@ saihex_creation: true
   </ul>
 </disc>
 
-**The 4Tris** is a franchise created by [IskandarAlex2](https://github.com/IskandarAlex2). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](The4Tris/logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
+**The 4Tris** is a franchise created by [IskandarAlex2](https://github.com/IskandarAlex2). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](The4Tris/category/logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
 
 ### Iskyverse
 The franchise falls under **Iskyverse** which a universe for [IskandarAlex2](https://github.com/IskandarAlex2)'s original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. 
@@ -48,17 +48,17 @@ Developer facts:
 - Sairo model was used for Iskyverse Unit where she is `14.65 IU` tall which is `10 foot` from head to foot excluding ears
 
 ### Reality Information
-The 4Tris occurs firstly in the real world with science fiction technology and little bit of magic. There is this one thing called [Anomalous Crystals](The4Tris/logic/Hexatom) which are crystal formed by not atoms but [Hexatoms](The4Tris/logic/Hexatom), these crystals hold special properties where depending on the Hexatom bonds with other Hexatom and their types. You can read the page about Hexatoms for more information regarding it.
+The 4Tris occurs firstly in the real world with science fiction technology and little bit of magic. There is this one thing called [Anomalous Crystals](The4Tris/category/logic/Hexatom) which are crystal formed by not atoms but [Hexatoms](The4Tris/category/logic/Hexatom), these crystals hold special properties where depending on the Hexatom bonds with other Hexatom and their types. You can read the page about Hexatoms for more information regarding it.
 
 ### General character Information
 *For more information of the characters please read their wiki page*
-- [Lan Interno](The4Tris/Characters/Lan_Interno)
-  - Lan Interno was a engineered creature that was given bionic enhancement. He was from [The 4Tris Real Life](The4Tris/Dimensions/real_life) and turned into BCR during the [origin story](The4Tris/Dimensions/the_simulation#origin-story). He has relationship with Silica as soulmate.
-- [Silica](The4Tris/Characters/Silica)
-  - Silica was a Brain Crystal *(without robot body)* who was attached to Lan's ship during in the [The 4Tris Real Life](The4Tris/Dimensions/real_life) times as his assistant, after a while she [fallen for Lan](The4Tris/Dimensions/real_life#lan-meeting-silica) and become his soulmate. If it wasn't clear, she was from the [The 4Tris Real Life](The4Tris/Dimensions/real_life).
-- [Spectra](The4Tris/Characters/Spectra)
-  - Spectra is a Brain Crystal Robot who was just a AI model in Lan's simulation but turned into Brain Crystal during the [origin story](The4Tris/Dimensions/the_simulation#origin-story). Despite designed male, he has quite a lot of female attributes and prefer any pronouns but called with "He" due to his appearance. He has relationship with Sairo as soulmate.
-- [Sairo](The4Tris/Characters/Sairo)
-  - Sairo is a Brain Crystal Robot who was just a AI model in Lan's simulation but without any data other than her intended personality traits. She turned into a Brain Crystal but her crystal was half Reality Bender Crystal during the [origin story](The4Tris/Dimensions/the_simulation#origin-story).
+- [Lan Interno](The4Tris/category/Characters/Lan_Interno)
+  - Lan Interno was a engineered creature that was given bionic enhancement. He was from [The 4Tris Real Life](The4Tris/category/Dimensions/real_life) and turned into BCR during the [origin story](The4Tris/category/Dimensions/the_simulation#origin-story). He has relationship with Silica as soulmate.
+- [Silica](The4Tris/category/Characters/Silica)
+  - Silica was a Brain Crystal *(without robot body)* who was attached to Lan's ship during in the [The 4Tris Real Life](The4Tris/category/Dimensions/real_life) times as his assistant, after a while she [fallen for Lan](The4Tris/category/Dimensions/real_life#lan-meeting-silica) and become his soulmate. If it wasn't clear, she was from the [The 4Tris Real Life](The4Tris/category/Dimensions/real_life).
+- [Spectra](The4Tris/category/Characters/Spectra)
+  - Spectra is a Brain Crystal Robot who was just a AI model in Lan's simulation but turned into Brain Crystal during the [origin story](The4Tris/category/Dimensions/the_simulation#origin-story). Despite designed male, he has quite a lot of female attributes and prefer any pronouns but called with "He" due to his appearance. He has relationship with Sairo as soulmate.
+- [Sairo](The4Tris/category/Characters/Sairo)
+  - Sairo is a Brain Crystal Robot who was just a AI model in Lan's simulation but without any data other than her intended personality traits. She turned into a Brain Crystal but her crystal was half Reality Bender Crystal during the [origin story](The4Tris/category/Dimensions/the_simulation#origin-story).
 
-After the [origin story](The4Tris/Dimensions/the_simulation#origin-story), they all are Brain Crystal Robot within Lan's simulation to help [Crystali with her curse.](The4Tris/Dimensions/the_simulation#crystali-and-her-curse)
+After the [origin story](The4Tris/category/Dimensions/the_simulation#origin-story), they all are Brain Crystal Robot within Lan's simulation to help [Crystali with her curse.](The4Tris/category/Dimensions/the_simulation#crystali-and-her-curse)
