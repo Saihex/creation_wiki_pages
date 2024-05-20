@@ -30,7 +30,9 @@ This version of Sairo did not get any other changes since creation until replace
 <img alt="Sairo V2 with Spectra V1" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v2.png">
 
 **V1 image contains [Spectra](../Characters/Spectra) V1 which won't be discussed.**
+
 **V3 contains [SaiSword](../Characters/Sairo#saisword) V2.**
+
 **V3 second image contains [SaiSword](../Characters/Sairo#saisword) V3.**
 
 **Sairo V2** and **Sairo V3** was designed by [IskandarAlex2](https://github.com/IskandarAlex2) back in `2023` around `February` and `March` as **V2** did not last long being visually unpleasant to us. Her body is connected by electromagnet ball-socket joints. Simple procedural shader is already implemented on her face for eyes. The rise of dual color design came up on `V3` with an uneven distribution around her body.
@@ -41,7 +43,7 @@ Around **V3** times, it has gone multiple small changes that we are not able to 
 <img alt="SaiSword V3" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_saisword.png">
 <img alt="Sairo V4" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo.png">
 
-**Sairo V4** was designed by [IskandarAlex2](https://github.com/IskandarAlex2) back in early `2024`. Anatomy design is explain in [BCR page](../logic/Brain_Crystal#brain-crystal-robot). We decided to use **smooth arm and legs** to make her look more appealing and use more female-ly waist design as well chest to better explain her personality in visual form. No more major changes are planned so this version would be the last for now.
+**Sairo V4** was designed by [IskandarAlex2](https://github.com/IskandarAlex2) back in early `2024`. Anatomy design is explained in [BCR page](../logic/Brain_Crystal#brain-crystal-robot). We decided to use **smooth arm and legs** to make her look more appealing and use more female-ly waist design as well chest to better explain her personality in visual form. No more major changes are planned so this version would be the last for now.
 
 Sairo V4 designed was based of [Silica's](../Characters/Silica) original design where she have **smooth arm and legs** unlike Sairo because she is designed for mechanic work meaning flexible arm and legs would really be helpful for her in small spaces.
 After a while, we decided to implement the **smooth arm and legs** design to [Brain Crystal Robot](../logic/Brain_Crystal#brain-crystal-robot) because the design just looks more appealing and pleasing to our eyes.
