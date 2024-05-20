@@ -4,7 +4,7 @@ description: The 4Tris Real Life, cruel real world.
 image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/dimensions/real_life/real_life.svg
 ---
 # The 4Tris Real Life
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/dimensions/real_life/real_life.svg">
+<img alt="The 4Tris real life icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/dimensions/real_life/real_life.svg">
 
 **The 4Tris Real Life** is the dimension where [Silica](../Characters/Silica) and [Lan Interno](../Characters/Lan_Interno) originated from. **Lan Interno** was created as Bionic Creature whose job is to travel far into interstellar space for resources and research planets while **Silica** was a [Brain Crystal](../logic/Brain_Crystal) whose job is to assist travelers on their job for lifetime.
 

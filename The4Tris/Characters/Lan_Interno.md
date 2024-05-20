@@ -1,10 +1,10 @@
 ---
 title: Lan Interno
 description: Lan Interno, an ordinary Brain Crystal who is one of the four main characters.
-image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/lan_interno/lan.png?downscale=fm
+image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/lan_interno/lan.png
 ---
 # Lan Interno
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/lan_interno/lan.png">
+<img alt="lan interno render" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/lan_interno/lan.png">
 
 **Lan Interno** is one of the four main characters. He is a [Brain Crystal](../logic/Brain_Crystal) and originated from [The 4Tris Real Life](../Dimensions/real_life) as Bionic Creature turned into Brain Crystal prior to the [simulation phase](../Dimensions/the_simulation#origin-story). He's specialized into Strategy Planning and Chemistry with special skill of able to make right decisions quickly in a dire circumstances.
 

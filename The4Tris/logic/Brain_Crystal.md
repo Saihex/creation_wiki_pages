@@ -5,7 +5,7 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/brain_crys
 ---
 
 # Brain Crystal
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/brain_crystal.svg">
+<img alt="Brain Crystal Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/brain_crystal.svg">
 
 **Brain Crystal** *(abbreviated as BC)* is a type of Anomalous Crystal that as the name suggests act as a Brain. This crystal is not capable of anything by itself so it is usually used by attaching it to a robot named [Brain Crystal Robot](#brain-crystal-robot).
 
@@ -28,7 +28,7 @@ No, despite Sairo and Spectra was in fact a AI model turned into Brain Crystal. 
 Brain Crystal was originally named **Artificial Consciousness Crystal** *(abbreviated as ACC)* and BCR was originally **Artificial Consciousness Crystal Robot** *(abbreviated as ACCR)*. Due to this, mention of "ACC" will led to immediate interpretation of Brain Crystal. The name change was because it is easy to misinterpret them as Artificial Intelligence which they are **NOT**.
 
 ## Brain Crystal Robot
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/BCR_Sairo.svg">
+<img alt="Sairo outline art for Brain Crystal Robot" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/BCR_Sairo.svg">
 
 Brain Crystal Robot *(abbreviated as BCR)* is a robot body made for Brain Crystal so they actually have a body. The material of the body is a [DeltaTungstate-A1](#deltatungstate-a1) with [BCR Nerve Fiber](#bcr-nerve-fiber) in it. The BCR Nerve Fiber controls the metal elasticity as well provides senses same as skin on human. Capability of design allow Brain Crystal Robots to control their skin elasticity meaning despite looks hard and sharp on edges it can be soft as a fabric and can deform like one. It also contracts the metal like a muscle.
 
@@ -52,7 +52,7 @@ The head also contains basic computer to control the monitor, hearing, vocal, fo
 The Torso contains advanced computer to handle the rest of the body nerve system. While being big, the torso is pretty much overall an empty cavity used as their portable personal storage. The Torso also contains additional computer with strong specs compare to one in the head for their access to the internet, foreign drives, etc. Basically a whole personal computer, in their torso.
 
 ### Arm and hands
-<img align="right" width="126" src="https://img.saihex.com/wiki_exclusive/The4Tris/Sairos_Fingers.png?downscale=s">
+<img alt="Sairo's fingers" align="right" width="126" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/Sairos_Fingers.png">
 
 Brain Crystal Robot arms are hollow with few small durable cables and component boxes inside. The hand of a BCR is equipped with Hexatom Mass-Hologram projector which a projector that projects hologram with mass allowing it to interact with objects it touched. Any sensation is still sensible on the fingers just like on the body surface. The fingers are indestructible
 

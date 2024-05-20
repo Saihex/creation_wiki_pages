@@ -4,7 +4,7 @@ title: Home
 description: Four Brain Crystal Robots doing missions while attached to a reality bending simulation to save the world.
 ico_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.ico
 wiki_head_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg
-default_embed_image: https://img.saihex.com/wiki_exclusive/The4Tris/4TrisCover.png?downscale=m
+default_embed_image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/4TrisCover.png
 image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 saihex_creation: true
 ---
@@ -20,7 +20,7 @@ saihex_creation: true
 
 ## General Information
 
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/4TrisCover.png?downscale=m">
+<img align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/4TrisCover.png">
 
 **Reminder: This page assumes you have known things that are mentioned. In a case you don't know; a link to their wiki page is attached so feel free to read them in order to understand it.**
 

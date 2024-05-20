@@ -4,7 +4,7 @@ description: The Simulation, where all magical and fun things happened.
 image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/dimensions/the_simulation/the_simulation_v2.svg
 ---
 # The Simulation
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/dimensions/the_simulation/the_simulation_v2.svg">
+<img alt="The Simulation Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/dimensions/the_simulation/the_simulation_v2.svg">
 
 **The Simulation** is the dimension after [The 4Tris Real Life](../Dimensions/real_life). [Brain Crystal Robot](../logic/Brain_Crystal#brain-crystal-robot) exists in this dimension. The Simulation is Lan's simulation that's running on his **Hexatom Ultra Quantum Computer** in [The 4Tris Real Life](../Dimensions/real_life). The four main characters [Silica](../Characters/Silica), [Spectra](../Characters/Spectra), [Sairo](../Characters/Sairo), and [Lan Interno](../Characters/Lan_Interno) are real Brain Crystals attached to the computer simulation.
 

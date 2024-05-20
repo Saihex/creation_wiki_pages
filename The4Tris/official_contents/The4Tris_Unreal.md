@@ -6,7 +6,7 @@ image: https://img.saihex.com/content_logos/The4Tris/The4Tris_Unreal.svg
 <p class="warning_box">Still under development, things may change, removed, or added.</p>
 
 # The 4Tris: Unreal
-<img align="right" width="200" src="https://img.saihex.com/content_logos/The4Tris/The4Tris_Unreal.svg">
+<img alt="The 4Tris: Unreal logo" align="right" width="200" src="https://img.saihex.com/content_logos/The4Tris/The4Tris_Unreal.svg">
 
 **The 4Tris: Unreal** is a game of **The 4Tris** franchise. It is a lore-driven game and currently being developed inside [Unreal Engine 5.3](https://www.unrealengine.com/en-US/unreal-engine-5). The game is simply about [Sairo](../Characters/Sairo), [Silica](../Characters/Silica), [Spectra](../Characters/Spectra), and [Lan Interno](../Characters/Lan_Interno) just got into [The Simulation](../Dimensions/the_simulation) and off to complete [their first mission of taking Crystal of Fairness](#their-mission). The game is semi-story mode where players can still move around but will have to "play" the story. We are planning to add quite a lot of cut scene gameplay where players have to do key combinations or mouse movement in order to make actions.
 

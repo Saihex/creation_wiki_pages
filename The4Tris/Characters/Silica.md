@@ -1,10 +1,10 @@
 ---
 title: Silica
 description: Silica, an ordinary Brain Crystal who is one of the four main characters.
-image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png?downscale=fm
+image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png
 ---
 # Silica
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png">
+<img align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png">
 
 **Silica** is one of the four main characters. She is a [Brain Crystal](../logic/Brain_Crystal) and originated from [The 4Tris Real Life](../Dimensions/real_life) as Brain Crystal too. She is specialized into mechanic and electronic engineering which make her into making her own electric [motorcycle](#silicycle) inside the [simulation](../Dimensions/the_simulation) where she finally have a body, resources, and a reason to do so. 
 
@@ -28,9 +28,9 @@ Her ears serve multiple purposes as it can be a pair of flash light, magnetic ho
 | Width (right to left shoulder) | `3.3 IU` or approx 68.65 cm |
 
 ## SiliCycle
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Front.png?downscale=fm">
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Back.png?downscale=fm">
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Monitor.png?downscale=fm">
+<img alt="SiliCycle Front" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Front.png">
+<img alt="SiliCycle Back" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Back.png">
+<img alt="SiliCycle Monitor" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Monitor.png">
 
 Pronounced `Silly Cycle`. SiliCycle is an electric motorcycle created by Silica inside the simulation to be used in their missions. SiliCycle can reach speed up to `1500 KM/h` or approximately `932 mph` thanks to the mini ion thruster that is placed at the rear of the motorcycle. Because of these unlawful unsafe capabilities, Silica implemented a "lawful mode" which limit the motorcycle speed to only `110 km/h` or about `68.35 mph`.
 

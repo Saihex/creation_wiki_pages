@@ -5,7 +5,7 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/hexatom.sv
 ---
 
 # Hexatom
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/hexatom.svg">
+<img alt="Hexatom icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/hexatom.svg">
 
 **Hexatom** is a type of atom that nearly similar in height and width but have no depth and somehow have a sphere collision around it with diameter equal to its height. It do have size differences depending on its properties. There is no way to observe inside of a Hexatom unlike atoms.
 
@@ -33,7 +33,7 @@ Hexatom will or not change the behavior and properties of the element. For examp
 Hexatoms do deplete over time either by using it or just existing. Age of Hexatom varies type to type and how it is being used. Hexatom will show degrade over its lifespan in several ways such as poor performance, color change, lose weight, etc. Once Hexatom is completely depleted it can be melted although melting it simply vaporize it from existence. Basically no waste!
 
 ## SaiHexatom Family
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/SaiHexatom.svg">
+<img alt="SaiHexatom Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/SaiHexatom.svg">
 
 **SaiHexatom** is a Hexatom created upon Sairo's power through [SaiHexatom Manipulation](../Characters/Sairo#saihexatom-manipulation). **SaiHexatom Family** cannot be replicated by any means and only one instance of the crystal exists. All SaiHexatom family instances cannot be break apart as it have virtually infinite amount of strength. **SaiHexatom Family** will do anything so at least one individual can reach it like if you were to throw one into a black hole the crystal will blow up the black hole and after everything cooled the crystal remains intact without any damage. Although, it doesn't care about distance and only path so even if it is 100 lightyears away from nearest individual it will not do anything as path to it exists.
 
