@@ -4,7 +4,7 @@ description: Spectra, Sairo's soulmate, introvert yet cheerful person, and a ver
 image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/spectra/spectra.png
 ---
 # Spectra
-<img alt="Spectra render" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/spectra/spectra.png">
+<img alt="Spectra render" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/spectra/spectra.png">
 
 **Spectra** is one of the four main characters. He's a ordinary [Brain Crystal](../logic/Brain_Crystal). Spectra is specialized into **Computer Science** and have a special skill to **break into a database or mainframe without being detected** nor got his action logged no matter what.
 
