@@ -27,6 +27,8 @@ No, despite Sairo and Spectra was in fact a AI model turned into Brain Crystal. 
 ### Developer fact
 Brain Crystal was originally named **Artificial Consciousness Crystal** *(abbreviated as ACC)* and BCR was originally **Artificial Consciousness Crystal Robot** *(abbreviated as ACCR)*. Due to this, mention of "ACC" will led to immediate interpretation of Brain Crystal. The name change was because it is easy to misinterpret them as Artificial Intelligence which they are **NOT**.
 
+---
+
 ## Brain Crystal Robot
 <img alt="Sairo outline art for Brain Crystal Robot" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/BCR_Sairo.svg">
 
@@ -47,6 +49,10 @@ The screen of a BCR is a special designed Hexatom monitor where it can detect li
 "Ear" accessory on top of the head varies BCR to BCR whether just for looks or actually have a purpose
 
 The head also contains basic computer to control the monitor, hearing, vocal, food atomizer, power supply, and basic BCR Nerve Fibers. There is also another small computer that BCR can use to access the internet or load a foreign drives as their main computer system is absolutely locked out for security reasons.
+
+**Short information**
+- BCR heads are all same sized.
+- The monitor can display the basic computer display output.
 
 ### Torso
 The Torso contains advanced computer to handle the rest of the body nerve system. While being big, the torso is pretty much overall an empty cavity used as their portable personal storage. The Torso also contains additional computer with strong specs compare to one in the head for their access to the internet, foreign drives, etc. Basically a whole personal computer, in their torso.

@@ -33,13 +33,15 @@ saihex_creation: true
 
 **The 4Tris** is a franchise created by [IskandarAlex2](https://github.com/IskandarAlex2). This franchise has 4 main characters which are **Sairo, Spectra, Silica, and Lan Interno**. They all are [Brain Crystal Robot](The4Tris/category/logic/Brain_Crystal#brain-crystal-robot)  *(Not to be confused with Artificial Intelligence; They're NOT AI, please read wiki about BCR)*.
 
+---
+
 ### Iskyverse
 The franchise falls under **Iskyverse** which a universe for [IskandarAlex2](https://github.com/IskandarAlex2)'s original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. 
 
 <u>**Iskyverse Unit (IU) ratios**</u>
-- `1 IU : (293/6096) cm`
-- `14.65 IU : 10 foot`
-- `14.65 IU : 304.8 cm`
+- `1 : (293/6096)` (IU : cm)
+- `14.65 : 10` (IU : foot)
+- `14.65 : 304.8` (IU : cm)
 
 Developer facts:
 
@@ -47,8 +49,14 @@ Developer facts:
 
 - Sairo model was used for Iskyverse Unit where she is `14.65 IU` tall which is `10 foot` from head to foot excluding ears
 
+---
+
 ### Reality Information
-The 4Tris occurs firstly in the real world with science fiction technology and little bit of magic. There is this one thing called [Anomalous Crystals](The4Tris/category/logic/Hexatom) which are crystal formed by not atoms but [Hexatoms](The4Tris/category/logic/Hexatom), these crystals hold special properties where depending on the Hexatom bonds with other Hexatom and their types. You can read the page about Hexatoms for more information regarding it.
+The 4Tris story line occurs firstly in [The 4Tris Real World](The4Tris/Dimensions/real_life) with science fiction technology and little bit of magic. There is this one thing called [Anomalous Crystals](The4Tris/category/logic/Hexatom) which are crystal formed by not atoms but [Hexatoms](The4Tris/category/logic/Hexatom), these crystals hold special properties where depending on the Hexatom bonds with other Hexatom and their types. You can read the page about Hexatoms for more information regarding it.
+
+The 4Tris franchise starts after [The 4Tris Real World](The4Tris/Dimensions/real_life) which is inside [The Simulation](The4Tris/Dimensions/the_simulation). It has more than [Anomalous Crystals](The4Tris/category/logic/Hexatom) and much more advanced technologies.
+
+---
 
 ### General character Information
 *For more information of the characters please read their wiki page*

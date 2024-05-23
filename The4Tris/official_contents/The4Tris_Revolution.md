@@ -24,6 +24,8 @@ This version was created for **SAIRo** game which has been cancelled long ago. A
 
 This version of Sairo did not get any other changes since creation until replaced with [Sairo V2](#sairo-v2-and-v3) sometime later after its creation.
 
+---
+
 ### Sairo V2 and V3
 <img alt="Sairo V3 with SaiSword V3" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v3_saiswordv3.png">
 <img alt="Sairo V3" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v3.png">
@@ -38,6 +40,8 @@ This version of Sairo did not get any other changes since creation until replace
 **Sairo V2** and **Sairo V3** was designed by [IskandarAlex2](https://github.com/IskandarAlex2) back in `2023` around `February` and `March` as **V2** did not last long being visually unpleasant to us. Her body is connected by electromagnet ball-socket joints. Simple procedural shader is already implemented on her face for eyes. The rise of dual color design came up on `V3` with an uneven distribution around her body.
 
 Around **V3** times, it has gone multiple small changes that we are not able to keep track of because back then we do not keep our actions in proper records. Due to this, any version of Sairo where she have **blocky arms and legs** as well **dual-color** are considered **V3**.
+
+---
 
 ### Sairo V4
 <img alt="SaiSword V3" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/sairo/sairo_saisword.png">
