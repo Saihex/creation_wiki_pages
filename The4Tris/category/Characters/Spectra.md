@@ -25,7 +25,7 @@ Regarding his relationship with Sairo, he's very afraid of the outside world and
 | Special Ability | Break into database or mainframe without getting caught |
 | Main Character? | Yes |
 | Body Emission Color Hex sRGB | `4CC8FFFF` (multiplied by 6 for material emission) |
-| Height (head to foot excluding ears) | [14.3692 IU](../#iskyverse) or approx 9.8 foot |
+| Height (head to foot excluding ears) | [14.3692 IU](../../#iskyverse) or approx 9.8 foot |
 | Width (right to left shoulder) | `4.14974 IU` or approx 86.33 cm |
 
 ## Spectra's mission control room

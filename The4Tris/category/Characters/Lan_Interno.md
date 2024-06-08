@@ -24,7 +24,7 @@ His ears serve as very powerful FM/AM antenna.
 | Special Skill | Make right decisions quickly in a dire circumstances |
 | Main Character? | Yes |
 | Body Emission Color Hex sRGB | `00FFC9FF` (multiplied by 6 for material emission) |
-| Height (head to foot excluding ears) | [14.2677 IU](../#iskyverse) or approx 9.73 foot |
+| Height (head to foot excluding ears) | [14.2677 IU](../../#iskyverse) or approx 9.73 foot |
 | Width (right to left shoulder) | `4.04144 IU` or approx 84.08 cm |
 
 ## Triangle Electronics and Hexatoms

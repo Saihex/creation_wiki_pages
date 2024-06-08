@@ -22,7 +22,7 @@ While most of her abilities are locked some of them are still obviously unlocked
 | Special Ability | ***Reality Bender*** |
 | Main Character? | Yes |
 | Body Emission Color Hex sRGB | `Left: E885FFFF` `Right: 4CC8FFFF` (multiplied by 6 for material emission) |
-| Height (head to foot excluding ears) | [14.65 IU](../#iskyverse) or 10 foot |
+| Height (head to foot excluding ears) | [14.65 IU](../../#iskyverse) or 10 foot |
 | Width (right to left shoulder) | `4 IU` or approximately 83 cm |
 
 ## SaiHexatom Manipulation

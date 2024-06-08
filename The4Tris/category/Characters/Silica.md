@@ -24,7 +24,7 @@ Her ears serve multiple purposes as it can be a pair of flash light, magnetic ho
 | Special Skill | Sneak pass anyone or even a security set without getting caught |
 | Main Character? | Yes |
 | Body Emission Color Hex sRGB | `E885FFFF` (multiplied by 6 for material emission) |
-| Height (head to foot excluding ears) | [13.7725 IU](../#iskyverse) or approx 9.4 foot |
+| Height (head to foot excluding ears) | [13.7725 IU](../../#iskyverse) or approx 9.4 foot |
 | Width (right to left shoulder) | `3.3 IU` or approx 68.65 cm |
 
 ## SiliCycle
