@@ -24,8 +24,8 @@ Her ears serve multiple purposes as it can be a pair of flash light, magnetic ho
 | Special Skill | Sneak pass anyone or even a security set without getting caught |
 | Main Character? | Yes |
 | Body Emission Color Hex sRGB | `E885FFFF` (multiplied by 6 for material emission) |
-| Height (head to foot excluding ears) | [13.7725 IU](../../#iskyverse) or approx 9.4 foot |
-| Width (right to left shoulder) | `3.3 IU` or approx 68.65 cm |
+| Height (head to foot excluding ears) | `2.86468` meters |
+| Width (right to left shoulder) | `68.64` centimeters |
 
 ## SiliCycle
 <img alt="SiliCycle Front" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Front.png">
@@ -36,4 +36,4 @@ Pronounced `Silly Cycle`. SiliCycle is an electric motorcycle created by Silica 
 
 SiliCycle also have **Auto PWR Mode** and **Full Auto Mode**. **Auto PWR Mode** basically a mode where the motorcycle will accelerate by itself to sustain the targeted speed while **Full Auto Mode** means the motorcycle is fully automatic, even driving itself! So Silica can put it on Full Auto Mode and relax for a bit. SiliCycle uses **BatTal** which is one of [Hexatom Anomalous Crystal](../logic/Hexatom) that stored energy in large quantities and allow ridiculous amount of energy transfer in and out. One that is within SiliCycle can store up to `144,000 Ah` and can last for 2 months constantly running at steady `500 km/h` speed on smooth road at earth gravity.
 
-SiliCycle Length front to back is `46.7525 IU` or about `32 foot`, width right to left of `6.2 IU` or about `4.23 foot`, and height top to bottom of `20.7373 IU` or about `14.15 foot`.
+SiliCycle Length front to back is `9.72452 meters`, width right to left of `1.2896 meters`, and height top to bottom of `4.3133584 meters`.

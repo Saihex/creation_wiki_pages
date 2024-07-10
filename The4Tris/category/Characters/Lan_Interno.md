@@ -24,8 +24,8 @@ His ears serve as very powerful FM/AM antenna.
 | Special Skill | Make right decisions quickly in a dire circumstances |
 | Main Character? | Yes |
 | Body Emission Color Hex sRGB | `00FFC9FF` (multiplied by 6 for material emission) |
-| Height (head to foot excluding ears) | [14.2677 IU](../../#iskyverse) or approx 9.73 foot |
-| Width (right to left shoulder) | `4.04144 IU` or approx 84.08 cm |
+| Height (head to foot excluding ears) | `2.9676816` meters |
+| Width (right to left shoulder) | `84.061952` centimeters |
 
 ## Triangle Electronics and Hexatoms
 <img alt="Triangle Electronics Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/non_char_entity/triangle_electronics/triangle_electronics.svg">

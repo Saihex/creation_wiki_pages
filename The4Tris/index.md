@@ -36,18 +36,7 @@ saihex_creation: true
 ---
 
 ### Iskyverse
-The franchise falls under **Iskyverse** which a universe for [IskandarAlex2](https://github.com/IskandarAlex2)'s original creations where unit of scale is **Iskyverse Unit** *(abbreviated as IU)*. 
-
-<u>**Iskyverse Unit (IU) ratios**</u>
-- `1 : (293/6096)` (IU : cm)
-- `14.65 : 10` (IU : foot)
-- `14.65 : 304.8` (IU : cm)
-
-Developer facts:
-
-- `1 IU` is equal to `1 m` in [Blender](https://www.blender.org/) on default settings
-
-- Sairo model was used for Iskyverse Unit where she is `14.65 IU` tall which is `10 foot` from head to foot excluding ears
+The franchise falls under [Iskyverse](https://github.com/IskandarAlex2/IskandarAlex2/blob/master/Iskyverse.md) which a universe for [IskandarAlex2](https://github.com/IskandarAlex2)'s original creations. The 4Tris universe serves as icon for [Iskyverse](https://github.com/IskandarAlex2/IskandarAlex2/blob/master/Iskyverse.md) being the first sub-universe under it.
 
 ---
 
