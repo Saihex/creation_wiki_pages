@@ -1,5 +1,5 @@
 ---
-title: Changes
+title: Recent Changes
 description: Recent changes made to this wiki
 image: https://img.saihex.com/wiki_exclusive/etc/changes.svg
 ---
@@ -8,10 +8,8 @@ image: https://img.saihex.com/wiki_exclusive/etc/changes.svg
   <img src="https://img.saihex.com/wiki_exclusive/etc/changes.svg" alt="The 4Tris Logo with text" width="320" align="right">
 </p>
 
-# Change Log
-This page shows all the changes made on The 4Tris wiki. This page requires manual updates by wiki writer so human errors might be represent. For more accurate version history of this wiki please look at the commits on the main branch of this GitHub repository.
-
-**Pages may or not be spoiler, open with caution if you're type of people who doesn't like spoilers.**
+# Recent Changes
+This page shows all the recent changes made on The 4Tris wiki. This page requires manual updates by wiki writer so human errors might be represent. For more accurate version history of this wiki please look at the commits on the main branch of this GitHub repository.
 
 [https://github.com/Saihex/creation_wiki_pages](https://github.com/Saihex/creation_wiki_pages)
 *this repository may also contains other wikis*
@@ -19,6 +17,8 @@ This page shows all the changes made on The 4Tris wiki. This page requires manua
 Last change: `23rd July 2024`
 
 `page name attached url > what changed`
+or
+`page name attached url (spoiler warning) > what changed`
 
 - [main page](.) > base understand list.
 - [Sairo Darling](category/Characters/Sairo) > Added her rank name.
@@ -26,3 +26,4 @@ Last change: `23rd July 2024`
 - [Spectra Interno](category/Characters/Spectra) > Added her rank name.
 - [Lan Interno](category/Characters/Lan_interno) > Added name lore.
 - [naming system](category/logic/naming_system) > created.
+- This page > fixed some grammar stuff idk
