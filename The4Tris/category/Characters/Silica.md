@@ -1,12 +1,12 @@
 ---
-title: Silica
+title: Silica Darling
 description: Silica, an ordinary Brain Crystal who is one of the four main characters.
 image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png
 ---
-# Silica
+# Silica Darling
 <img align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/silica.png">
 
-**Silica** is one of the four main characters. She is a [Brain Crystal](../logic/Brain_Crystal) and originated from [The 4Tris Real Life](../Dimensions/real_life) as Brain Crystal too. She is specialized into mechanic and electronic engineering which make her into making her own electric [motorcycle](#silicycle) inside the [simulation](../Dimensions/the_simulation) where she finally have a body, resources, and a reason to do so. 
+**Silica Darling** is one of the four main characters. She is a [Brain Crystal](../logic/Brain_Crystal) and originated from [The 4Tris Real Life](../Dimensions/real_life) as Brain Crystal too. She is specialized into mechanic and electronic engineering which make her into making her own electric [motorcycle](#silicycle) inside the [simulation](../Dimensions/the_simulation) where she finally have a body, resources, and a reason to do so. 
 
 Other than the two specializes she also have the master skill to sneak pass security without getting caught which what she has been doing to get the necessary components for her [motorcycle](#silicycle). Although, it was Lan Interno's company she was stealing from and Lan pretty much knew it because he felt a bit suspicious of where she could have gotten all the components. So, Lan asked Silica where she got the components and despite being quite a tomboy, she couldn't lie and fell begging for his apologies to which being a lovely soulmate he is, he forgive her and helped her to finish it.
 

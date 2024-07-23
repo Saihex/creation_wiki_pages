@@ -35,6 +35,13 @@ saihex_creation: true
 
 ---
 
+**Understand the way this universe works**
+- [Naming System](The4Tris/category/logic/naming_system)
+- [Hexatom](The4Tris/category/logic/Hexatom)
+- [Brain Crystal](The4Tris/category/logic/Brain_Crystal)
+
+---
+
 ### Iskyverse
 The franchise falls under [Iskyverse](https://github.com/IskandarAlex2/IskandarAlex2/blob/master/Iskyverse.md) which a universe for [IskandarAlex2](https://github.com/IskandarAlex2)'s original creations. The 4Tris universe serves as icon for [Iskyverse](https://github.com/IskandarAlex2/IskandarAlex2/blob/master/Iskyverse.md) being the first sub-universe under it.
 

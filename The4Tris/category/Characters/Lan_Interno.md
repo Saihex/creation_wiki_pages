@@ -33,3 +33,6 @@ His ears serve as very powerful FM/AM antenna.
 In the simulation, Lan owns a company called **Triangle Electronics** *(abbreviated as TE)* specialized into making semiconductors, quantum compute processor, and [Hexatom Anomalous Crystal](../logic/Hexatom) products of any kind. Triangle Electronics is **the only company** that is allowed to produce Hexatom Anomalous Crystal by the **Universal Peacekeeper Organization** *(abbreviated as UPO)* which is an organization that put and enforce rules for all parties in the universe to keep peace and safety of everyone. This rule is enforced easily because to produce a **Hexatom Anomalous Crystal** you would need a [ExistTal](../logic/Hexatom#saihexatom-family) so it is impossible for other parties to produce it without stealing ExistTal from them. Lan was lucky for his company to get their hand on the ExistTal before other parties.
 
 More information regarding this at [Triangle Electronics page](../non_char_entity/triangle_electronics).
+
+## Name history
+**Lan Interno** was originally named **Lanerate** before getting the [Interno rank](../logic/naming_system). He grew obsessions with networking technology and decided to rename himself as **Lan Interno** as soon he got the [Interno rank](../logic/naming_system).

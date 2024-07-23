@@ -1,12 +1,12 @@
 ---
-title: Spectra
+title: Spectra Interno
 description: Spectra, Sairo's soulmate, introvert yet cheerful person, and a very smart computer enthusiast! One of the four main characters.
 image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/spectra/spectra.png
 ---
-# Spectra
+# Spectra Interno
 <img alt="Spectra render" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/spectra/spectra.png">
 
-**Spectra** is one of the four main characters. He's a ordinary [Brain Crystal](../logic/Brain_Crystal). Spectra is specialized into **Computer Science** and have a special skill to **break into a database or mainframe without being detected** nor got his action logged no matter what.
+**Spectra Interno** is one of the four main characters. He's a ordinary [Brain Crystal](../logic/Brain_Crystal). Spectra is specialized into **Computer Science** and have a special skill to **break into a database or mainframe without being detected** nor got his action logged no matter what.
 
 Spectra normally help with their missions as the mission control and stay at their base communicating while looking at their location and warns for nearby enemies, breaching enemies' mainframe to give them access, etc. Spectra also helped [Silica](../Characters/Silica) with programming [SiliCycle's](../Characters/Silica#silicycle) software.
 **Spectra's ears** are wide range FM/AM transceivers which he used to communicate and relay information from/to the other The 4Tris main characters in case he's needed to go along with them to the site of attack rather than staying at his mission control room.
