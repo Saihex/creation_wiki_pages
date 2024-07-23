@@ -20,7 +20,7 @@ Last change: `23rd July 2024`
 
 `page name attached url > what changed`
 
-- [main page](/) > base understand list.
+- [main page](.) > base understand list.
 - [Sairo Darling](category/Characters/Sairo) > Added her rank name.
 - [Silica Darling](category/Characters/Silica) > Added her rank name.
 - [Spectra Interno](category/Characters/Spectra) > Added her rank name.
