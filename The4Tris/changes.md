@@ -9,7 +9,7 @@ image: https://img.saihex.com/wiki_exclusive/etc/changes.svg
 </p>
 
 # Recent Changes
-This page shows all the recent changes made on The 4Tris wiki. This page requires manual updates by wiki writer so human errors might be represent. For more accurate version history of this wiki please look at the commits on the main branch of this GitHub repository.
+This page shows all the recent changes made on The 4Tris wiki. This page requires manual updates by wiki writer so human errors might be present. For more accurate version history of this wiki please look at the commits on the main branch of this GitHub repository.
 
 [https://github.com/Saihex/creation_wiki_pages](https://github.com/Saihex/creation_wiki_pages)
 *this repository may also contains other wikis*
