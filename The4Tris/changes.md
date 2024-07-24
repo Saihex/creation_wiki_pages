@@ -11,15 +11,23 @@ image: https://img.saihex.com/wiki_exclusive/etc/changes.svg
 # Recent Changes
 This page shows all the recent changes made on The 4Tris wiki. This page requires manual updates by wiki writer so human errors might be present. For more accurate version history of this wiki please look at the commits on the main branch of this GitHub repository.
 
+This page will hold up to `10` recent changes.
+
 [https://github.com/Saihex/creation_wiki_pages](https://github.com/Saihex/creation_wiki_pages)
 *this repository may also contains other wikis*
-
-Last change: `23rd July 2024`
 
 `page name attached url > what changed`
 or
 `page name attached url (spoiler warning) > what changed`
 
+---
+
+Changes date: `24th July 2024`
+- [naming system](category/logic/naming_system) > added link to [The Simulation](category/Dimensions/the_simulation) page.
+
+---
+
+Changes date: `23rd July 2024`
 - [main page](.) > base understand list.
 - [Sairo Darling](category/Characters/Sairo) > Added her rank name.
 - [Silica Darling](category/Characters/Silica) > Added her rank name.
