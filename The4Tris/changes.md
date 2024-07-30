@@ -22,6 +22,14 @@ or
 
 ---
 
+Change date: `30th July 2024`
+- [main page](.) > added age intention warning.
+- [Sairo Darling](category/Characters/Sairo) > Updated pronoun.
+- [Silica Darling](category/Characters/Silica) > Updated pronoun.
+- [Spectra Interno](category/Characters/Spectra) > Updated pronoun.
+
+---
+
 Changes date: `24th July 2024`
 - [naming system](category/logic/naming_system) > added link to [The Simulation](category/Dimensions/the_simulation) page.
 
