@@ -15,7 +15,7 @@ While most of her abilities are locked some of them are still obviously unlocked
 | Personality  | Semi-Intro Ambivert    |
 | Confidence | Average     |
 | Mind Personality    |  Mid-Dom Feminine   |
-| Pronoun | She/Her |
+| Pronoun | She/Any |
 | Soulmate | [Spectra](../Characters/Spectra) |
 | Species | [Brain Crystal](../logic/Brain_Crystal) |
 | Specialty | [Combat (due to her powers)](#saihexatom-manipulation) |
