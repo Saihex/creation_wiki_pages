@@ -18,11 +18,13 @@ saihex_creation: true
 </h1>
 <p class="warning_box">More pages and information may be added in the future. This is a fictional franchise so things are not related to the real world except for certain physics facts.</p>
 
+---
+
+<p class="warning_box">This franchise isn't made for children. Suggestive contents, jokes or humour WILL be presented throughout the franchise. Our target audiencs are 16 and above.</p>
+
 ## General Information
 
 <img align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/4TrisCover.png">
-
-<p class="warning_box">This franchise isn't made for children. Suggestive contents, jokes or humour WILL be presented throughout the franchise. Our target audiencs are 16 and above.</p>
 
 **Reminder: This page assumes you have known things that are mentioned. In a case you don't know; a link to their wiki page is attached so feel free to read them in order to understand it.**
 
