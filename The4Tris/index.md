@@ -1,7 +1,7 @@
 ---
 franchise_proper_name: The 4Tris
 title: Home
-description: Four Brain Crystal Robots doing missions while attached to a reality bending simulation to save the world.
+description: "Four Brain Crystal Robots doing missions while attached to a reality bending simulation to save the world. This franchise isn't made for children. (Intended for 16 and above)"
 ico_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.ico
 wiki_head_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg
 default_embed_image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/4TrisCover.png
@@ -21,6 +21,8 @@ saihex_creation: true
 ## General Information
 
 <img align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/4TrisCover.png">
+
+<p class="warning_box">This franchise isn't made for children. Suggestive contents, jokes or humour WILL be presented throughout the franchise. Our target audiencs are 16 and above.</p>
 
 **Reminder: This page assumes you have known things that are mentioned. In a case you don't know; a link to their wiki page is attached so feel free to read them in order to understand it.**
 
