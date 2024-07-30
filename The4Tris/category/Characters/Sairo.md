@@ -8,7 +8,7 @@ image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/charact
 
 **Sairo Darling** is one of the four main characters in The 4Tris. She is a [Brain Crystal](../logic/Brain_Crystal) that is half Reality Bender Crystal which gives her reality bending capabilities. Unfortunately, [The Simulation](../Dimensions/the_simulation) prevents her from using all of her abilities due to the unfair advantage it gives her to complete the challenges. One of her power is [SaiHexatom manipulation](#saihexatom-manipulation) where she pretty much have atomic minions that do anything she wanted without limits at all.
 
-While most of her abilities are locked some of them are still obviously unlocked and sometimes even the locked ones will either be temporarily unlocked or permanently unlocked. Her always unlocked ability is **SaiHexatom Inventory** where she can store anything she wanted in another dimension by simply holding it and teleport it to the dimension. Her wings are also always unlocked but her ability to fly sometimes locked depending on the situation.
+While most of her abilities are locked some of them are still obviously unlocked and sometimes even the locked ones will either be temporarily unlocked or permanently unlocked. Her always unlocked ability is **SaiHexatom Inventory** where she can store anything she wanted in another dimension by simply holding it and teleport it to the dimension. Her wings are also always unlocked but her ability to fly sometimes locked depending on the situation. *Robots don't have to be and stay on one gender*
 
 | Category    | Traits |
 | -------- | ------- |
