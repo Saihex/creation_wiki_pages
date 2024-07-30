@@ -10,14 +10,14 @@ image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/charact
 
 Other than the two specializes she also have the master skill to sneak pass security without getting caught which what she has been doing to get the necessary components for her [motorcycle](#silicycle). Although, it was Lan Interno's company she was stealing from and Lan pretty much knew it because he felt a bit suspicious of where she could have gotten all the components. So, Lan asked Silica where she got the components and despite being quite a tomboy, she couldn't lie and fell begging for his apologies to which being a lovely soulmate he is, he forgive her and helped her to finish it.
 
-Her ears serve multiple purposes as it can be a pair of flash light, magnetic holder, DC power supply, and FM/AM antenna.
+Her ears serve multiple purposes as it can be a pair of flash light, magnetic holder, DC power supply, and FM/AM antenna. *Robots don't necessarily have to be and stay on one gender.*
 
 | Category    | Traits |
 | -------- | ------- |
 | Personality  | Ambivert    |
 | Confidence | Medium     |
 | Mind Personality    |  High-Dom Feminine   |
-| Pronoun | She/Her |
+| Pronoun | She/Any |
 | Soulmate | [Lan Interno](../Characters/Lan_Interno) |
 | Species | [Brain Crystal](../logic/Brain_Crystal) |
 | Specialty | Mechanic and Electronic |
@@ -32,7 +32,7 @@ Her ears serve multiple purposes as it can be a pair of flash light, magnetic ho
 <img alt="SiliCycle Back" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Back.png">
 <img alt="SiliCycle Monitor" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Monitor.png">
 
-Pronounced `Silly Cycle`. SiliCycle is an electric motorcycle created by Silica inside the simulation to be used in their missions. SiliCycle can reach speed up to `1500 KM/h` or approximately `932 mph` thanks to the mini ion thruster that is placed at the rear of the motorcycle. Because of these unlawful unsafe capabilities, Silica implemented a "lawful mode" which limit the motorcycle speed to only `110 km/h` or about `68.35 mph`.
+Pronounced `Silly Cycle`. SiliCycle is an electric motorcycle created by Silica inside the simulation to be used in their missions. SiliCycle can reach speed up to `1500 KM/h` or approximately `932 mph` thanks to the mini ion thruster that is placed at the rear of the motorcycle. Because of these unlawful unsafe capabilities, Silica implemented a "lawful mode" which limit the motorcycle speed to only `110 km/h` or about `68.35 mph`. 
 
 SiliCycle also have **Auto PWR Mode** and **Full Auto Mode**. **Auto PWR Mode** basically a mode where the motorcycle will accelerate by itself to sustain the targeted speed while **Full Auto Mode** means the motorcycle is fully automatic, even driving itself! So Silica can put it on Full Auto Mode and relax for a bit. SiliCycle uses **BatTal** which is one of [Hexatom Anomalous Crystal](../logic/Hexatom) that stored energy in large quantities and allow ridiculous amount of energy transfer in and out. One that is within SiliCycle can store up to `144,000 Ah` and can last for 2 months constantly running at steady `500 km/h` speed on smooth road at earth gravity.
 
