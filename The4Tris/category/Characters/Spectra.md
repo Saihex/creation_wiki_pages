@@ -11,7 +11,7 @@ image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/charact
 Spectra normally help with their missions as the mission control and stay at their base communicating while looking at their location and warns for nearby enemies, breaching enemies' mainframe to give them access, etc. Spectra also helped [Silica](../Characters/Silica) with programming [SiliCycle's](../Characters/Silica#silicycle) software.
 **Spectra's ears** are wide range FM/AM transceivers which he used to communicate and relay information from/to the other The 4Tris main characters in case he's needed to go along with them to the site of attack rather than staying at his mission control room.
 
-Regarding his relationship with Sairo, he's very afraid of the outside world and often stay close by [Sairo](../Characters/Sairo) when going out. Because of this, Sairo often help him make friends from outside time to time which proves to be success most of the time that he made around 20 close friends from outside who lives in [Axusgram](../non_char_entity/triangle_electronics#axusgram).
+Regarding his relationship with Sairo, he's very afraid of the outside world and often stay close by [Sairo](../Characters/Sairo) when going out. Because of this, Sairo often help him make friends from outside time to time which proves to be success most of the time that he made around 20 close friends from outside who lives in [Axusgram](../non_char_entity/triangle_electronics#axusgram). *Robots don't have to be and stay on one gender*
 
 | Category    | Traits |
 | -------- | ------- |
