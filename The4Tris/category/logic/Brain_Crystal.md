@@ -30,18 +30,32 @@ Brain Crystal was originally named **Artificial Consciousness Crystal** *(abbrev
 ---
 
 ## Brain Crystal Robot
-<img alt="Sairo outline art for Brain Crystal Robot" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/BCR_Sairo.svg">
+<img alt="Brain Crystal Robot Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/brain_crystal_robot.svg">
+
+Note: BCRs only exists within [The Simulation](../Dimensions/the_simulation).
 
 Brain Crystal Robot *(abbreviated as BCR)* is a robot body made for Brain Crystal so they actually have a body. The material of the body is a [DeltaTungstate-A1](#deltatungstate-a1) with [BCR Nerve Fiber](#bcr-nerve-fiber) in it. The BCR Nerve Fiber controls the metal elasticity as well provides senses same as skin on human. Capability of design allow Brain Crystal Robots to control their skin elasticity meaning despite looks hard and sharp on edges it can be soft as a fabric and can deform like one. It also contracts the metal like a muscle.
 
-In [The 4Tris Real Life](../Dimensions/real_life), BCR does not exists and only Brain Crystals. BCR existence is only in Lan's simulation.
+While most BCR use the [common design](#brain-crystal-robot-common-design), there are some BCR that have their own custom design to suite efficiently with their task. Some designed as feline, squid and birds. While most common design is given preset body exterior design, they can still request to change body anytime they wanted.
 
-### Joints
+### Brain Crystal Robot Common Design
+Known as **BCR Common Design**. This description only explains the internal/interior of this design, the exterior design depends on what the owner wanted it to be.
+
+This is a humanoid design of BCR body. Body material is by default **DeltaTungstate-A1** *(explained below)* but may varies depending on the exterior design. This design is very modular and flexible making it a great choice for general purpose BCRs. Due to the joint design, even after having their head and limbs disconnected from the torso they will still be fine and able to control their body with no problem unless one of the part lost power *(explained below)*.
+
+<details>
+<summary>Brain Crystal Robot's joints</summary>
+
 Brain Crystal Robot body parts specifically arms, legs, torso, and head are modular and detachable. The body parts are connected and held by a Hexatom Grip System where a block of specific Hexatom alloy is the holder, by having current through the block it will become sort of a liquid but will hold strong to whatever object that got into it. By applying voltage difference on the sides, the block will rotate objects accordingly which allows the smooth and flexible movement of the arms to the torso. While it holds strong without any input, complete lost of power through it will make it lose grip over the rotation of the object, still holding strong but the object will rotate around without any resistance.
 
 Data and power connection is simply done by using Hexatom peer to peer data-power share where two specific Hexatom is placed near with each other and they will act as a wireless connection to share power and signals. They're placed so close that even if you have the right Hexatom it will need to open their torso to actually hijack their body joint connection. Besides, the crystal will not accept other connections unless one of the pair completely lost power.
 
-### Head
+Fun fact: All BCR Common Design bodies have the same arms and fingers.
+</details>
+
+<details>
+<summary>Brain Crystal Robot's head</summary>
+
 The Brain Crystal is located inside the head within a vessel where millions of nano cables connects to the crystal used to send and receive signals. There is also 2 large cables connected to the crystal used for power connection.
 
 The screen of a BCR is a special designed Hexatom monitor where it can detect light and even let things through it at specific area of the monitor at will. When a [BCR decides to eat or drink](#eating), the computer will automatically make the monitor mouth hole area passthrough and the food or drink will get into the atomizer and fed to the crystal.
@@ -53,20 +67,35 @@ The head also contains basic computer to control the monitor, hearing, vocal, fo
 **Short information**
 - BCR heads are all same sized.
 - The monitor can display the basic computer display output.
+</details>
 
-### Torso
-The Torso contains advanced computer to handle the rest of the body nerve system. While being big, the torso is pretty much overall an empty cavity used as their portable personal storage. The Torso also contains additional computer with strong specs compare to one in the head for their access to the internet, foreign drives, etc. Basically a whole personal computer, in their torso.
+<details>
+<summary>Brain Crystal Robot's torso</summary>
 
-### Arm and hands
+The torso contains advanced computer to handle the rest of the body nerve system. While being big, the torso is pretty much overall an empty cavity used as their portable personal storage. The torso also contains additional computer with strong specs compare to one in the head for their access to the internet, foreign drives, etc. Basically a whole personal computer, in their torso.
+</details>
+
+<details>
+<summary>Brain Crystal Robot's limbs and hands</summary>
+
 <img alt="Sairo's fingers" align="right" width="126" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/Sairos_Fingers.png">
 
-Brain Crystal Robot arms are hollow with few small durable cables and component boxes inside. The hand of a BCR is equipped with Hexatom Mass-Hologram projector which a projector that projects hologram with mass allowing it to interact with objects it touched. Any sensation is still sensible on the fingers just like on the body surface. The fingers are indestructible
+Brain Crystal Robot arms are hollow with few small durable cables and component boxes inside. The hand of a BCR is equipped with Hexatom Mass-Hologram projector which a projector that projects hologram with mass allowing it to interact with objects it touched. Any sensation is still sensible on the fingers just like on the body surface. The fingers are indestructible.
 
 The hand is also equipped with a heating system in case they ever need to heat things up.
 
-### DeltaTungstate-A1
+Once activated, the limbs can be detached and still maintains stable connection to the body power and computer connection. *(Read joints explanation)*
+</details>
+
+<details>
+<summary>DeltaTungstate-A1</summary>
+
 DeltaTungstate-A1 is a Hexatom-Tungsten Alloy that is reactive towards steady current changes where the higher the current is the more elastic it becomes.
 DeltaTungstate-A1 can also act as a muscle by reacting to `500 GHz` signals where voltage between `0 - 50 VDC` causes it to tighten and `50 - 100 VDC` causes it to do the opposite.
+</details>
 
-### BCR Nerve Fiber
+<details>
+<summary>Brain Crystal Robot's Nerve Fiber</summary>
+
 BCR Nerve Fiber is a tiny Hexatom-Copper Alloy wires that runs inside the "skin" of BCR body. It acts as a normal living beings nerve system and can transfer and receive information.
+</details>

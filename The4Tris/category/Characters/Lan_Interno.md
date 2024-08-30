@@ -8,7 +8,7 @@ image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/charact
 
 **Lan Interno** is one of the four main characters. He is a [Brain Crystal](../logic/Brain_Crystal) and originated from [The 4Tris Real Life](../Dimensions/real_life) as Bionic Creature turned into Brain Crystal prior to the [simulation phase](../Dimensions/the_simulation#origin-story). He's specialized into Strategy Planning and Chemistry with special skill of able to make right decisions quickly in a dire circumstances.
 
-Regarding his relationship with [Silica](../Characters/Silica), [Lan was already soulmate to Silica from The 4Tris Real Life](../Dimensions/real_life#lan-meeting-silica). When Lan was created and given his own ship for his far home missions he was given a Brain Crystal named **Silica** who will be his assistant for lifetime. They two become attached no long after and decided to become soulmates.
+Regarding his relationship with [Silica Darling](../Characters/Silica), [Lan was already soulmate to Silica from The 4Tris Real Life](../Dimensions/real_life#lan-meeting-silica). When Lan was created and given his own ship for his far home missions he was given a Brain Crystal named **Silica** who will be his assistant for lifetime. They two become attached no long after and decided to become soulmates.
 
 His ears serve as very powerful FM/AM antenna.
 
@@ -18,7 +18,7 @@ His ears serve as very powerful FM/AM antenna.
 | Confidence | High     |
 | Mind Personality    |  Masculine   |
 | Pronoun | He/Him |
-| Soulmate | [Silica](../Characters/Silica) |
+| Soulmate | [Silica Darling](../Characters/Silica) |
 | Species | [Brain Crystal](../logic/Brain_Crystal) |
 | Specialty | Strategy Planning and Chemistry |
 | Special Skill | Make right decisions quickly in a dire circumstances |

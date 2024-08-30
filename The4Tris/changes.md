@@ -22,7 +22,14 @@ or
 
 ---
 
-Change date: `30th July 2024`
+Change date: `31st August 2024 UTC+8`
+- [Brain Crystal](category/logic/Brain_Crystal) > improvised organization.
+- [Brain Crystal](category/logic/Brain_Crystal) > V2 of Brain Crystal and Brain Crystal Robot icons.
+- **! A micro change was made but wasn't necessary to be recorded in this page** > Added rank to names mentioned (links) without it.
+
+---
+
+Change date: `30th July 2024 UTC+8`
 - [main page](.) > added age intention warning.
 - [Sairo Darling](category/Characters/Sairo) > Updated pronoun.
 - [Silica Darling](category/Characters/Silica) > Updated pronoun.
@@ -30,12 +37,12 @@ Change date: `30th July 2024`
 
 ---
 
-Changes date: `24th July 2024`
+Changes date: `24th July 2024 UTC+8`
 - [naming system](category/logic/naming_system) > added link to [The Simulation](category/Dimensions/the_simulation) page.
 
 ---
 
-Changes date: `23rd July 2024`
+Changes date: `23rd July 2024 UTC+8`
 - [main page](.) > base understand list.
 - [Sairo Darling](category/Characters/Sairo) > Added her rank name.
 - [Silica Darling](category/Characters/Silica) > Added her rank name.

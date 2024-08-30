@@ -37,6 +37,6 @@ The other one is binary logo design which only consist of two colors that are bl
 <img alt="SiliCycle Front" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Front.png">
 
 [You can read about SiliCycle at Silica character page](../Characters/Silica#silicycle).
-[Silica](../Characters/Silica) was actively stealing produces from **Triangle Electronics Mega Factory A1** while making her motorcycle (SiliCycle). This all went great thanks to her special skill but fell apart when Lan Interno asked her where she got all the components for it to which she fell begging for apologies because she can't lie to her own soulmate. As a loving soulmate he is, Lan forgive her and in fact helped her with finishing the motorcycle.
+[Silica Darling](../Characters/Silica) was actively stealing produces from **Triangle Electronics Mega Factory A1** while making her motorcycle (SiliCycle). This all went great thanks to her special skill but fell apart when Lan Interno asked her where she got all the components for it to which she fell begging for apologies because she can't lie to her own soulmate. As a loving soulmate he is, Lan forgive her and in fact helped her with finishing the motorcycle.
 
 *This story might be sweet but please don't steal from your partner.*

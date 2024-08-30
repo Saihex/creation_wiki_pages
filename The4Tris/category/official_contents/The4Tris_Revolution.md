@@ -6,10 +6,10 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 <p class="warning_box">We are still trying to dig our own history to accurately write this page at the moment.</p>
 
 # The 4Tris' Revolution
-The 4Tris begins with [Sairo](../Characters/Sairo). Her name was firstly spelled `SAIRo` as abbreviation for **Smart Artificial Intelligence Robot** and yes she started as an AI Robot rather than [BCR](../logic/Brain_Crystal#brain-crystal-robot) that she currently is.
+The 4Tris begins with [Sairo Darling](../Characters/Sairo). Her name was firstly spelled `SAIRo` as abbreviation for **Smart Artificial Intelligence Robot** and yes she started as an AI Robot rather than [BCR](../logic/Brain_Crystal#brain-crystal-robot) that she currently is.
 
 ## Sairo's Revolution
-[Sairo](../Characters/Sairo) went through multiple iterations and was created as early as when Saihex Studios was **Starsdust Studios**.
+[Sairo Darling](../Characters/Sairo) went through multiple iterations and was created as early as when Saihex Studios was **Starsdust Studios**.
 
 Sairo was an taken from [IskandarAlex2's](https://github.com/IskandarAlex2) old creation [SAIBots](https://isk-inc-rblx.fandom.com/wiki/SAIBots) *(Warning: Fandom Wiki)* which under his [Roblox](https://www.roblox.com) Sci-Fi franchise **"I.S.K Inc"** which we already abandoned before we even thought of making `SAIRo`
 
@@ -31,7 +31,7 @@ This version of Sairo did not get any other changes since creation until replace
 <img alt="Sairo V3" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v3.png">
 <img alt="Sairo V2 with Spectra V1" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v2.png">
 
-**V1 image contains [Spectra](../Characters/Spectra) V1 which won't be discussed.**
+**V1 image contains [Spectra Interno](../Characters/Spectra) V1 which won't be discussed.**
 
 **V3 contains [SaiSword](../Characters/Sairo#saisword) V2.**
 
