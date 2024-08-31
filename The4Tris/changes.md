@@ -21,6 +21,11 @@ or
 `page name attached url (spoiler warning) > what changed`
 
 ---
+Change date: `1st Sep 2024 UTC+8`
+- [Brain Crystal](category/logic/Brain_Crystal) > Added more information.
+- [Hexatom](category/logic/Hexatom) > Hexatom Classification and Hexatom Pronunciation.
+
+---
 
 Change date: `31st August 2024 UTC+8`
 - [Brain Crystal](category/logic/Brain_Crystal) > improvised organization.

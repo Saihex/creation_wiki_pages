@@ -1,18 +1,29 @@
 ---
 title: Brain Crystal
-description: Brain Crystal is one of Anomalous Crystal that act as a brain. It is not useful by itself and requires to be attach to a computer to assist them.
+description: Brain Crystal is one of Hexatom Crystals that act as a brain. It is not useful by itself and requires to be attach to a computer to assist them.
 image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/brain_crystal.svg
 ---
 
 # Brain Crystal
 <img alt="Brain Crystal Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/brain_crystal.svg">
 
-**Brain Crystal** *(abbreviated as BC)* is a type of Anomalous Crystal that as the name suggests act as a Brain. This crystal is not capable of anything by itself so it is usually used by attaching it to a robot named [Brain Crystal Robot](#brain-crystal-robot).
+**Brain Crystal** *(abbreviated as BC)* is a type of [Hexatom Crystal](../logic/Hexatom) that as the name suggests act as a Brain. This crystal is not capable of anything by itself so it is usually used by attaching it to a robot named [Brain Crystal Robot](#brain-crystal-robot). Its symbol is **BrC**
 
 
 ### General
 Brain Crystal is fully capable of storing power and memory, while having limit of storing only `50 Terawatt-hour` it doesn't seems to have memory limit whatsoever. Brain Crystal is vibrant semi-transparent green colored and slowly fades to dark red as it comes closer to its lifespan limit of `1,720 years`. A Brain Crystal Consciousness can be transferred to a fresh Brain Crystal meaning any Brain Crystal individual are potentially immortal.
 
+Brain Crystal individuals do not have any evil intentions even if they're a transfer from creature with plain out evil mind. Research suggests that the Brain Crystal influences its owner thoughts and feelings into respecting others and cause little to no violence when possible. However, Brain Crystal Individual still may present hate and disgust but they will try not to cause any fights physical nor vocal.
+
+Brain Crystal individuals have a shared phobia where any mention of their crystal being exposed unprotected will led them to have spike in anxiety. This is likely to be their mental mechanism purposed to protect themselves from danger. Due to this, [Triangle Electronics](../non_char_entity/triangle_electronics) prohibits any jokes of Brain Crystals in terms of getting injuries.
+
+Brain Crystal is produced by combining `720 KG` of Black Matter and `2,512 KG` of White Matter in the [Hexatom Creation](../logic/Hexatom#hexatom-creation) process.
+Its [NFPA 704](https://en.wikipedia.org/wiki/NFPA_704) is all zero (no fire hazard, no health hazard, no specific hazard nor instability hazard).
+
+### Identification and differentiation
+Every Brain Crystal have a unique identification code. A [Hexatom Crystal](../logic/Hexatom) nicknamed **"Brain Crystal Identifier"** (B:`2,512 KG`, W:`720 KG`) can read nearest Brain Crystal's identification code 5 seconds after activation and will stop once it finished where it needs to be deactivated and re-activated to read again.
+
+This identification method is very safe that if you were to hijack it you literally have to hack the computer as it is impossible to trick the Brain Crystal Identifier into reading false codes.
 
 ### Eating?
 Brain Crystal is capable of consuming food and drinks by atomizing the food and just spill the atoms over the crystal surface which will give them charge of `10 Watt per Calorie`. Chemicals have no effect on them but they can still taste the food/drink. But, even with this capability Brain Crystal is recommended to be charged with energy as it is much more time and resource efficient. It is worth knowing that atomizing food process only takes `5 Watt per Calorie` meaning they will only have `5 Watt` spare for charge.
@@ -22,10 +33,13 @@ Brain Crystal is capable of consuming food and drinks by atomizing the food and 
 A human mind can be transferred into a Brain Crystal but this process have 70% rate of losing majority of one's memory and possible personality bends and just like any other Anomalous Crystal would do to keep the reality destructing, the transferred mind original body will instantly be brain dead once the crystal is charged to at least `50 MW`. No matter how they try to keep the brain safe it always ends up brain dead where the neurons mysteriously disappear. This also apply with Brain Crystal individual transfer which is normally done to transfer them from a near expire crystal; the crystal will simply lose all charge and all memory in it will completely wiped off.
 
 ### Transfer AI model to Brain Crystal?
-No, despite Sairo and Spectra was in fact a AI model turned into Brain Crystal. It was possible because who done that was **Crystali** (full story in the [origin story](../Dimensions/the_simulation#origin-story)).
+No, despite Sairo and Spectra was in fact a AI model turned into Brain Crystal. It was possible because who done that was **Crystali** who posses reality bending power and passes it down to Sairo. (full story in the [origin story](../Dimensions/the_simulation#origin-story)).
 
-### Developer fact
+<details>
+<summary>Developer Fact</summary>
+
 Brain Crystal was originally named **Artificial Consciousness Crystal** *(abbreviated as ACC)* and BCR was originally **Artificial Consciousness Crystal Robot** *(abbreviated as ACCR)*. Due to this, mention of "ACC" will led to immediate interpretation of Brain Crystal. The name change was because it is easy to misinterpret them as Artificial Intelligence which they are **NOT**.
+</details>
 
 ---
 
@@ -34,9 +48,9 @@ Brain Crystal was originally named **Artificial Consciousness Crystal** *(abbrev
 
 Note: BCRs only exists within [The Simulation](../Dimensions/the_simulation).
 
-Brain Crystal Robot *(abbreviated as BCR)* is a robot body made for Brain Crystal so they actually have a body. The material of the body is a [DeltaTungstate-A1](#deltatungstate-a1) with [BCR Nerve Fiber](#bcr-nerve-fiber) in it. The BCR Nerve Fiber controls the metal elasticity as well provides senses same as skin on human. Capability of design allow Brain Crystal Robots to control their skin elasticity meaning despite looks hard and sharp on edges it can be soft as a fabric and can deform like one. It also contracts the metal like a muscle.
+Brain Crystal Robot *(abbreviated as BCR)* is a robot body made for Brain Crystal so they actually have a body. The material of the body is a **DeltaTungstate-A1** with **BCR Nerve Fiber** in it. The BCR Nerve Fiber controls the metal elasticity as well provides senses same as skin on human. Capability of design allow Brain Crystal Robots to control their skin elasticity meaning despite looks hard and sharp on edges it can be soft as a fabric and can deform like one. It also contracts the metal like a muscle.
 
-While most BCR use the [common design](#brain-crystal-robot-common-design), there are some BCR that have their own custom design to suite efficiently with their task. Some designed as feline, squid and birds. While most common design is given preset body exterior design, they can still request to change body anytime they wanted.
+While most BCR use the [Common Design](#brain-crystal-robot-common-design), there are some BCR that have their own custom design to suite their task. Some designed as feline, squid and birds. While most Common Design BCRs are given preset body exterior design, they can still request to change body design anytime they wanted whether their own design or within a catalog of "BCR Common Exterior Design".
 
 ### Brain Crystal Robot Common Design
 Known as **BCR Common Design**. This description only explains the internal/interior of this design, the exterior design depends on what the owner wanted it to be.

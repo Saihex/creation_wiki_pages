@@ -7,11 +7,32 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/hexatom.sv
 # Hexatom
 <img alt="Hexatom icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/logic/hexatom.svg">
 
+Pronounced "Hex-sa-tom".
+
 **Hexatom** is a type of atom that nearly similar in height and width but have no depth and somehow have a sphere collision around it with diameter equal to its height. It do have size differences depending on its properties. There is no way to observe inside of a Hexatom unlike atoms.
 
 Hexatom only has one state that is solid and will never melt or evaporate no matter how high the temperature it is subjected to. The properties of Hexatom are defined during the creation process by manipulating how many white and black matter is collided and fused.
 
-[Sairo Darling](../Characters/Sairo) who's crystal is partially reality bender crystal have a ability to produce **SaiHexatom**. SaiHexatom is similar to Hexatom but drastically different because it exists upon her command and will do anything that she wanted it to do. Its sizes can change to whatever she wanted and its properties can change to whatever she wanted. This come to the cost of she will lose **mind power** which is different from the energy her crystal provide to the robot body. Basically, when her mind power is low she will become weak and she might went unconscious.
+[Sairo Darling](../Characters/Sairo) whose [Brain Crystal](../logic/Brain_Crystal) is partially reality bender crystal have a ability to produce [SaiHexatom](#saihexatom-family). SaiHexatom is similar to Hexatom but drastically different because it exists upon her command and will do anything that she wanted it to do. Its sizes can change to whatever she wanted and its properties can change to whatever she wanted. This come to the cost of she will lose **mind power** which is different from the energy her crystal provide to the robot body. Basically, when her mind power is low she will become weak and she might went unconscious. However, low mind power but not too low to get her unconscious tends to lower her IQ temporarily and make her silly.
+
+## Classification System
+<img alt="Hexatom Classification Diagram" align="right" width="256" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/logic/hexatom_class.svg">
+
+The possibilities of Hexatom combination are almost infinite making it hard to name every one of them. Because of this, Hexatom combination is classed with two values which are the White and Black matter mass that are fused to produce the Hexatom.
+
+Sometimes, a combination is also given a nickname and a symbol if use of such combination is common enough.
+
+<details>
+<summary>Classification Diagram Usage</summary>
+
+The usage of the Hexatom Classification Diagram is simple. Shape of the diagram varies depending on the content. For example, ThrustTal requires a rectangular shape diagram in order to fit its nickname and symbol.
+
+The diagram have a title "Hexatom" to indicate this is an hexatom rather than elements or otherwise. A [NFPA 704](https://en.wikipedia.org/wiki/NFPA_704) is used to summarize the hazard such combination may cause.
+
+Other than that, combinations with nicknames are often comes with a symbol and written as shown in the image. If the combination does not have a nickname nor a symbol then it is either won't be written or "N/A".
+
+Lastly, separated by a line is the Black and White matter mass written in metric weight notation. For mass with decimals it is either written in **mixed fraction** or **standard form** to ensure precision.
+</details>
 
 ## Hexatom Creation
 Hexatom is created through a process named **White-Black Matter Collision** thus giving the machine doing the process **White-Black Matter Collider** as its name. The machine also contains a **Hexatom Anomalous Crystal** named **ExistTal** that makes the white and black matter collision actually produces Hexatom by emitting strange Hexatom Energy unreproducible by any mean other than powering the ExistTal. ExistTal cannot be recreated as it is part of [SaiHexatom Family](#saihexatom-family)
@@ -35,7 +56,7 @@ Hexatoms do deplete over time either by using it or just existing. Age of Hexato
 ## SaiHexatom Family
 <img alt="SaiHexatom Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/SaiHexatom.svg">
 
-**SaiHexatom** is a Hexatom created upon Sairo's power through [SaiHexatom Manipulation](../Characters/Sairo#saihexatom-manipulation). **SaiHexatom Family** cannot be replicated by any means and only one instance of the crystal exists. All SaiHexatom family instances cannot be break apart as it have virtually infinite amount of strength. **SaiHexatom Family** will do anything so at least one individual can reach it like if you were to throw one into a black hole the crystal will blow up the black hole and after everything cooled the crystal remains intact without any damage. Although, it doesn't care about distance and only path so even if it is 100 lightyears away from nearest individual it will not do anything as path to it exists.
+**SaiHexatom** is a Hexatom created upon Sairo's power through [SaiHexatom Manipulation](../Characters/Sairo#saihexatom-manipulation). **SaiHexatom Family** cannot be replicated by any means and only one instance of the crystal exists as well it will **never** deplete. All SaiHexatom family instances cannot be break apart as it have virtually infinite amount of strength. **SaiHexatom Family** will do anything so at least one individual can reach it like if you were to throw one into a black hole the crystal will blow up the black hole and after everything cooled the crystal remains intact without any damage. Although, it doesn't care about distance and only path so even if it is 100 lightyears away from nearest individual it will not do anything as path to it exists.
 
 Here are known **SaiHexatom Family Instances**
 - **SaiHexatom**
