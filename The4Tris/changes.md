@@ -20,7 +20,7 @@ This page will hold up to `10` recent changes.
 or
 `page name attached url (spoiler warning) > what changed`
 
---
+---
 
 Change date: `18th Sep 2024 UTC+8`
 - [main page](.) > Fixed Spectra's pronoun
