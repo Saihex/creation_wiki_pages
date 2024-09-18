@@ -11,7 +11,7 @@ The 4Tris begins with [Sairo Darling](../Characters/Sairo). Her name was firstly
 ## Sairo's Revolution
 [Sairo Darling](../Characters/Sairo) went through multiple iterations and was created as early as when Saihex Studios was **Starsdust Studios**.
 
-Sairo was an taken from [IskandarAlex2's](https://github.com/IskandarAlex2) old creation [SAIBots](https://isk-inc-rblx.fandom.com/wiki/SAIBots) *(Warning: Fandom Wiki)* which under his [Roblox](https://www.roblox.com) Sci-Fi franchise **"I.S.K Inc"** which we already abandoned before we even thought of making `SAIRo`
+Sairo was an taken from [IskandarAlex2's](https://github.com/IskandarAlex2) old creation [SAIBots](https://isk-inc-rblx.fandom.com/wiki/SAIBots) *(Warning: Fandom Wiki)* which under her [Roblox](https://www.roblox.com) Sci-Fi franchise **"I.S.K Inc"** which we already abandoned before we even thought of making `SAIRo`
 
 ### Sairo V1
 <img alt="Sairo V1" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v1.png">

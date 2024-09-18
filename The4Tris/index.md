@@ -65,7 +65,7 @@ The 4Tris franchise starts after [The 4Tris Real World](The4Tris/Dimensions/real
 - [Silica Darling](The4Tris/category/Characters/Silica)
   - Silica was a Brain Crystal *(without robot body)* who was attached to Lan's ship during in the [The 4Tris Real Life](The4Tris/category/Dimensions/real_life) times as his assistant, after a while she [fallen for Lan](The4Tris/category/Dimensions/real_life#lan-meeting-silica) and become his soulmate. If it wasn't clear, she was from the [The 4Tris Real Life](The4Tris/category/Dimensions/real_life).
 - [Spectra Interno](The4Tris/category/Characters/Spectra)
-  - Spectra is a Brain Crystal Robot who was just a AI model in Lan's simulation but turned into Brain Crystal during the [origin story](The4Tris/category/Dimensions/the_simulation#origin-story). Despite designed male, he has quite a lot of female attributes and prefer any pronouns but called with "He" due to his appearance. He has relationship with Sairo as soulmate.
+  - Spectra is a Brain Crystal Robot who was just a AI model in Lan's simulation but turned into Brain Crystal during the [origin story](The4Tris/category/Dimensions/the_simulation#origin-story). Despite designed male, he has quite a lot of female attributes and prefer any pronouns but called with "He" due to her appearance. She has relationship with Sairo as soulmate.
 - [Sairo Darling](The4Tris/category/Characters/Sairo)
   - Sairo is a Brain Crystal Robot who was just a AI model in Lan's simulation but without any data other than her intended personality traits. She turned into a Brain Crystal but her crystal was half Reality Bender Crystal during the [origin story](The4Tris/category/Dimensions/the_simulation#origin-story).
 

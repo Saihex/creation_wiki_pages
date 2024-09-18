@@ -20,6 +20,13 @@ This page will hold up to `10` recent changes.
 or
 `page name attached url (spoiler warning) > what changed`
 
+--
+
+Change date: `18th Sep 2024 UTC+8`
+- [main page](.) > Fixed Spectra's pronoun
+- [Spectra Interno](category/Characters/Spectra) > Fixed pronoun in sentences.
+- [Spectra Interno](category/official_contents/The4Tris_Revolution) > Fixed Isky's pronoun in sentences.
+
 ---
 Change date: `1st Sep 2024 UTC+8`
 - [Brain Crystal](category/logic/Brain_Crystal) > Added more information.
