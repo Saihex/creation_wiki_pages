@@ -73,7 +73,7 @@ Fun fact: All BCR Common Design bodies have the same arms and fingers.
 
 The Brain Crystal is located inside the head within a vessel where millions of nano cables connects to the crystal used to send and receive signals. There is also 2 large cables connected to the crystal used for power connection.
 
-The screen of a BCR is a special designed Hexatom monitor where it can detect light and also emit light without detecting its own emission. Under the eyes section is a special area of the face that is deformable and act as the mouth hole. The mouth hole is surrounded is highlighted with the BCR's emission color. The mouth cavity is a [Food Atomizer](#eating). The tongue color emission level is 90 times less than the rest of the body emissive parts.
+The screen of a BCR is a special designed Hexatom monitor where it can detect light and also emit light without detecting its own emission. Under the eyes section is a special area of the face that is deformable and act as the mouth hole. The mouth hole is highlighted with the BCR's emission color as lips. The mouth cavity is a [Food Atomizer](#eating). The tongue color emission level is 90 times less than the rest of the body emissive parts.
 
 "Ear" accessory on top of the head varies BCR to BCR whether just for looks or actually have a purpose
 
