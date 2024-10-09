@@ -23,7 +23,7 @@ or
 ---
 
 Change date: `9th Oct 2024 UTC+8`
-- [Brain Crystal](category/logic/Brain_Crystal.md) > Updated mouth mechanism.
+- [Brain Crystal](category/logic/Brain_Crystal) > Updated mouth mechanism.
 
 ---
 
