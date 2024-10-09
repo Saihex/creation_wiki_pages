@@ -26,8 +26,9 @@ Every Brain Crystal have a unique identification code. A [Hexatom Crystal](../lo
 This identification method is very safe that if you were to hijack it you literally have to hack the computer as it is impossible to trick the Brain Crystal Identifier into reading false codes.
 
 ### Eating?
-Brain Crystal is capable of consuming food and drinks by atomizing the food and just spill the atoms over the crystal surface which will give them charge of `10 Watt per Calorie`. Chemicals have no effect on them but they can still taste the food/drink. But, even with this capability Brain Crystal is recommended to be charged with energy as it is much more time and resource efficient. It is worth knowing that atomizing food process only takes `5 Watt per Calorie` meaning they will only have `5 Watt` spare for charge.
+Brain Crystal is capable of consuming food and drinks by atomizing the food with the Food Atomizer and just spill the atoms over the crystal surface which will give them charge of `10 Watt per Calorie`. Chemicals have no effect on them but they can still taste the food/drink. But, even with this capability Brain Crystal is recommended to be charged with energy as it is much more time and resource efficient. It is worth knowing that atomizing food process only takes `5 Watt per Calorie` meaning they will only have `5 Watt` spare for charge.
 
+The atomization process is done by using the **Food Atomizer** *(abbreviated as FA)* which is a simple device disguised as the mouth cavity that will atomize the food into particles. Food Atomizer **doesn't usually** need these extensions but for BCRs the FA is given a **tongue** as well **artificial taste buds on the cavity walls** that helps them taste the food. The atomization process can happen instantly but BCRs tend to "eat" slowly as the taste buds cannot sense anything if the process is too fast.
 
 ### Human mind and existing Brain Crystal individual transfer
 A human mind can be transferred into a Brain Crystal but this process have 70% rate of losing majority of one's memory and possible personality bends and just like any other Anomalous Crystal would do to keep the reality destructing, the transferred mind original body will instantly be brain dead once the crystal is charged to at least `50 MW`. No matter how they try to keep the brain safe it always ends up brain dead where the neurons mysteriously disappear. This also apply with Brain Crystal individual transfer which is normally done to transfer them from a near expire crystal; the crystal will simply lose all charge and all memory in it will completely wiped off.
@@ -72,11 +73,11 @@ Fun fact: All BCR Common Design bodies have the same arms and fingers.
 
 The Brain Crystal is located inside the head within a vessel where millions of nano cables connects to the crystal used to send and receive signals. There is also 2 large cables connected to the crystal used for power connection.
 
-The screen of a BCR is a special designed Hexatom monitor where it can detect light and even let things through it at specific area of the monitor at will. When a [BCR decides to eat or drink](#eating), the computer will automatically make the monitor mouth hole area passthrough and the food or drink will get into the atomizer and fed to the crystal.
+The screen of a BCR is a special designed Hexatom monitor where it can detect light and also emit light without detecting its own emission. Under the eyes section is a special area of the face that is deformable and act as the mouth hole. The mouth hole is surrounded is highlighted with the BCR's emission color. The mouth cavity is a [Food Atomizer](#eating). The tongue color emission level is 90 times less than the rest of the body emissive parts.
 
 "Ear" accessory on top of the head varies BCR to BCR whether just for looks or actually have a purpose
 
-The head also contains basic computer to control the monitor, hearing, vocal, food atomizer, power supply, and basic BCR Nerve Fibers. There is also another small computer that BCR can use to access the internet or load a foreign drives as their main computer system is absolutely locked out for security reasons.
+The head also contains basic computer to control the monitor, hearing, vocal, Food Atomizer, power supply, and basic BCR Nerve Fibers. There is also another small computer that BCR can use to access the internet or load a foreign drives as their main computer system is absolutely locked out for security reasons.
 
 **Short information**
 - BCR heads are all same sized.

@@ -22,6 +22,11 @@ or
 
 ---
 
+Change date: `9th Oct 2024 UTC+8`
+- [Brain Crystal](category/logic/Brain_Crystal.md) > Updated mouth mechanism.
+
+---
+
 Change date: `18th Sep 2024 UTC+8`
 - [main page](.) > Fixed Spectra's pronoun
 - [Spectra Interno](category/Characters/Spectra) > Fixed pronoun in sentences.
