@@ -1,14 +1,14 @@
 ---
-title: "The 4Tris' Revolution"
+title: "The 4Tris' Evolution"
 description: The 4Tris creation and development.
 image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 ---
 <p class="warning_box">We are still trying to dig our own history to accurately write this page at the moment.</p>
 
-# The 4Tris' Revolution
+# The 4Tris' Evolution
 The 4Tris begins with [Sairo Darling](../Characters/Sairo). Her name was firstly spelled `SAIRo` as abbreviation for **Smart Artificial Intelligence Robot** and yes she started as an AI Robot rather than [BCR](../logic/Brain_Crystal#brain-crystal-robot) that she currently is.
 
-## Sairo's Revolution
+## Sairo's Evolution
 [Sairo Darling](../Characters/Sairo) went through multiple iterations and was created as early as when Saihex Studios was **Starsdust Studios**.
 
 Sairo was an taken from [IskandarAlex2's](https://github.com/IskandarAlex2) old creation [SAIBots](https://isk-inc-rblx.fandom.com/wiki/SAIBots) *(Warning: Fandom Wiki)* which under her [Roblox](https://www.roblox.com) Sci-Fi franchise **"I.S.K Inc"** which we already abandoned before we even thought of making `SAIRo`
