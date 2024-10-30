@@ -23,9 +23,10 @@ His ears serve as very powerful FM/AM antenna.
 | Specialty | Strategy Planning and Chemistry |
 | Special Skill | Make right decisions quickly in a dire circumstances |
 | Main Character? | Yes |
-| Body Emission Color Hex sRGB | `00FFC9FF` (multiplied by 6 for material emission) |
+| Body Emission Color Hex sRGB | `BBFFE6FF` (multiplied by 6 for material emission) |
 | Height (head to foot excluding ears) | `2.9676816` meters |
 | Width (right to left shoulder) | `84.061952` centimeters |
+| Latest model version | `v1.1` (30th Oct 2024) |
 
 ## Triangle Electronics and Hexatoms
 <img alt="Triangle Electronics Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/non_char_entity/triangle_electronics/triangle_electronics.svg">

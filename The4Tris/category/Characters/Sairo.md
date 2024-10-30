@@ -24,6 +24,7 @@ While most of her abilities are locked some of them are still obviously unlocked
 | Body Emission Color Hex sRGB | `Left: E885FFFF` `Right: 4CC8FFFF` (multiplied by 6 for material emission) |
 | Height (head to foot excluding ears) | `3.0472` meters |
 | Width (right to left shoulder) | `83.2` centimeters |
+| Latest model version | `v4.1` (30th Oct 2024) |
 
 ## SaiHexatom Manipulation
 <img alt="SaiHexatom icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/The4Tris/page_icon/characters/sairo/SaiHexatom.svg">

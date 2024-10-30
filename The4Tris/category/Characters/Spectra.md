@@ -27,6 +27,7 @@ Regarding her relationship with Sairo, she's very afraid of the outside world an
 | Body Emission Color Hex sRGB | `4CC8FFFF` (multiplied by 6 for material emission) |
 | Height (head to foot excluding ears) | `2.9887936` meters |
 | Width (right to left shoulder) | `86.314592` centimeters |
+| Latest model version | `v3.1` (30th Oct 2024) |
 
 ## Spectra's mission control room
 <p class="warning_box">3D model is under development. Images of this entity will be available in the future.</p>

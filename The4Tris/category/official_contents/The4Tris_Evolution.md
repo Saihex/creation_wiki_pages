@@ -51,3 +51,9 @@ Around **V3** times, it has gone multiple small changes that we are not able to 
 
 Sairo V4 designed was based of [Silica's](../Characters/Silica) original design where she have **smooth arm and legs** unlike Sairo because she is designed for mechanic work meaning flexible arm and legs would really be helpful for her in small spaces.
 After a while, we decided to implement the **smooth arm and legs** design to [Brain Crystal Robot](../logic/Brain_Crystal#brain-crystal-robot) because the design just looks more appealing and pleasing to our eyes.
+
+<u>Sub-changes</u>
+1. `v4.1` (30th Oct 2024): Added physical mouth and tongue. This is also followed by the other 3 main characters upgrading them to v`*.1`.
+   - [Spectra Interno](../Characters/Spectra): `v3.1`
+   - [Silica Darling](../Characters/Silica): `v1.1`
+   - [Lan Interno](../Characters/Lan_Interno): `v1.1`

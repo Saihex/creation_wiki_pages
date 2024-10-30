@@ -26,6 +26,7 @@ Her ears serve multiple purposes as it can be a pair of flash light, magnetic ho
 | Body Emission Color Hex sRGB | `E885FFFF` (multiplied by 6 for material emission) |
 | Height (head to foot excluding ears) | `2.86468` meters |
 | Width (right to left shoulder) | `68.64` centimeters |
+| Latest model version | `v1.1` (30th Oct 2024) |
 
 ## SiliCycle
 <img alt="SiliCycle Front" align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/characters/silica/SiliCycle_Front.png">
