@@ -26,7 +26,7 @@ Change date: `30th Oct 2024 UTC+8`
 - [Sairo Darling](category/Characters/Sairo) > Model version, updated icon.
 - [Silica Darling](category/Characters/Silica) > Model version, updated icon.
 - [Spectra Interno](category/Characters/Spectra) > Model version, updated icon.
-- [Lan Interno](category/Characters/Lan_interno) > Model version, updated icon, updated color sRGB.
+- [Lan Interno](category/Characters/Lan_Interno) > Model version, updated icon, updated color sRGB.
 - [Saihex Mascot](category/official_contents/saihex_mascot) > Error images update
 - [The 4Tris' Evolution](category/official_contents/The4Tris_Evolution) > Sairo `v4.1`.
 
