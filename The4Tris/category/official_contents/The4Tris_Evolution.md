@@ -1,6 +1,6 @@
 ---
 title: "The 4Tris' Evolution"
-description: The 4Tris creation and development.
+description: the creation of The 4Tris and its development.
 image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 ---
 <p class="warning_box">We are still trying to dig our own history to accurately write this page at the moment.</p>

@@ -1,7 +1,7 @@
 ---
 franchise_proper_name: The 4Tris
 title: Home
-description: "Four Brain Crystal Robots doing missions while attached to a reality bending simulation to save the world. This franchise isn't made for children. (Intended for 16 and above)"
+description: "Rework in progress."
 ico_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.ico
 wiki_head_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg
 default_embed_image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/4TrisCover.png
