@@ -25,7 +25,7 @@ saihex_creation: true
 
 <img align="right" width="200" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/4TrisCover.png">
  
-**The 4Tris** is a franchise created by [IskandarAlex2](https://iskandaralex2.carrd.co/).
+**The 4Tris** is a franchise created by [IskandarAlex2](https://iskandaralex2.carrd.co/) and is part of [Iskyverse](./Iskyverse).
 
 <b>Public Notice</b>
 
