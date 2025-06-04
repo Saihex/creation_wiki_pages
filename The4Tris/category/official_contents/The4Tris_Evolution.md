@@ -18,6 +18,8 @@ The 4Tris begins with [Sairo Darling](../Characters/Sairo). Her name was firstly
 
 **The 4Tris First Generation** logo is a simple diamond split into four with unquie abstract patterns on each pieces. This was made by [IskandarAlex2](https://iskandaralex2.carrd.co/) back in `2023` during the formation of this franchise.
 
+Just like many of IskandarAlex2's earlier creations, **The 4Tris First Generation** logo has several technical issues. The polygons were not merged properly, resulting in awkward gaps between each piece.
+
 ---
 
 ### The 4Tris - Second Generation
