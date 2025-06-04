@@ -21,3 +21,5 @@ or
 `page name attached url (spoiler warning) > what changed`
 
 ---
+
+Major changes is on-going with the wiki and the website major redesign is being planned. This page will not be updated.

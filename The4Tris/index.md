@@ -2,7 +2,7 @@
 franchise_proper_name: The 4Tris
 title: Home
 description: "Rework in progress."
-ico_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.ico
+ico_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 wiki_head_image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg
 default_embed_image: https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/4TrisCover.png
 image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg

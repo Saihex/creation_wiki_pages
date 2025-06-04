@@ -8,12 +8,36 @@ image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 # The 4Tris' Evolution
 The 4Tris begins with [Sairo Darling](../Characters/Sairo). Her name was firstly spelled `SAIRo` as abbreviation for **Smart Artificial Intelligence Robot** and yes she started as an AI Robot rather than [BCR](../logic/Brain_Crystal#brain-crystal-robot) that she currently is.
 
+## Franchise Generation Evolution
+
+**The 4Tris** has gone two generations so far. The franchise was created around the same time between **Sairo V2 and V3**.
+
+### The 4Tris - First Generation
+
+<img alt="The 4Tris Logo with Text V1" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/old/V1The4Tris_Cover_Text.svg">
+
+**The 4Tris First Generation** logo is a simple diamond split into four with unquie abstract patterns on each pieces. This was made by [IskandarAlex2](https://iskandaralex2.carrd.co/) back in `2023` during the formation of this franchise.
+
+---
+
+### The 4Tris - Second Generation
+
+<img alt="The 4Tris Logo with Text V2" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg">
+
+**The 4Tris Second Generation** logo is much more complex compared to the first generation. It consists of zodiac-like symbols representing the four main characters of the franchise, alongside the [Iskyverse](https://wiki.saihex.com/wiki/Iskyverse) logo. This logo was also created by [IskandarAlex2](https://iskandaralex2.carrd.co/) on `June 4th, 2025`, and was released publicly the following day.
+
+This generation was developed in parallel with the creation of **Sairo V5**.
+
+---
+
 ## Sairo's Evolution
+
 [Sairo Darling](../Characters/Sairo) went through multiple iterations and was created as early as when Saihex Studios was **Starsdust Studios**.
 
-Sairo was an taken from [IskandarAlex2's](https://github.com/IskandarAlex2) old creation [SAIBots](https://isk-inc-rblx.fandom.com/wiki/SAIBots) *(Warning: Fandom Wiki)* which under her [Roblox](https://www.roblox.com) Sci-Fi franchise **"I.S.K Inc"** which we already abandoned before we even thought of making `SAIRo`
+Sairo was an taken from [IskandarAlex2's](https://iskandaralex2.carrd.co/) old creation ***SAIBots*** which under her [Roblox](https://www.roblox.com) Sci-Fi franchise **"I.S.K Inc"** which we already abandoned before we even thought of making `SAIRo`
 
 ### Sairo V1
+
 <img alt="Sairo V1" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v1.png">
 
 <img alt="SaiSword V1" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sword_v1.png">
@@ -27,6 +51,7 @@ This version of Sairo did not get any other changes since creation until replace
 ---
 
 ### Sairo V2 and V3
+
 <img alt="Sairo V3 with SaiSword V3" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v3_saiswordv3.png">
 <img alt="Sairo V3" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v3.png">
 <img alt="Sairo V2 with Spectra V1" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/page_icon/official_contents/sairo/sairo_v2.png">
@@ -57,3 +82,14 @@ After a while, we decided to implement the **smooth arm and legs** design to [Br
    - [Spectra Interno](../Characters/Spectra): `v3.1`
    - [Silica Darling](../Characters/Silica): `v1.1`
    - [Lan Interno](../Characters/Lan_Interno): `v1.1`
+
+---
+
+### Sairo V5
+
+<img alt="Sairo V4" align="right" width="172" src="https://img.saihex.com/wiki_exclusive/etc/IskyverseCP.svg">
+
+Rapid development in progress.
+You may join Saihex Studio Official Discord Server to follow with the development of **Sairo V5**.
+
+Or update yourself at [IskandarAlex2's Bluesky profile](https://bsky.app/profile/iskandaralex2.bsky.social)
