@@ -22,7 +22,7 @@ The 4Tris begins with [Sairo Darling](../Characters/Sairo). Her name was firstly
 
 ### The 4Tris - Second Generation
 
-<img alt="The 4Tris Logo with Text V2" align="right" width="172" src="https://img.saihex.com/webp?src=wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg">
+<img alt="The 4Tris Logo with Text V2" align="right" width="172" src="https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris_Cover_Text.svg">
 
 **The 4Tris Second Generation** logo is much more complex compared to the first generation. It consists of zodiac-like symbols representing the four main characters of the franchise, alongside the [Iskyverse](https://wiki.saihex.com/wiki/Iskyverse) logo. This logo was also created by [IskandarAlex2](https://iskandaralex2.carrd.co/) on `June 4th, 2025`, and was released publicly the following day.
 
