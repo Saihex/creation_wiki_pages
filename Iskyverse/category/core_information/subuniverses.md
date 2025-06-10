@@ -136,3 +136,32 @@ However, rather than vanishing into nothingness, the object’s **mass-energy is
 The **Cataclysmic Return Law** guarantees that **foreign matter always returns home in some form**, even if that return is triggered by cataclysmic ends.
 
 </details>
+
+<details>
+<summary>🌌 <strong>Negentropy of Balance</strong></summary>
+
+**Isky's Subuniverse Law: Negentropy of Balance**  
+> *"When the matter-energy ratio of a subuniverse becomes critically imbalanced due to inter-subuniversal energy transfers, excess energy is automatically transmuted into hydrogen atoms to restore equilibrium."*
+
+This law acts as a *cosmic regulator*, counterbalancing the effects of laws like the **Void Reversion Principle** and **Negentropy of Energy**, which may cause excessive energy buildup in a subuniverse without an equivalent increase in mass.
+
+If a subuniverse’s **mass-to-energy ratio drops below a critical threshold**, the law activates:
+- **Pure energy** is converted into **hydrogen atoms**, the simplest and most stable form of matter.
+- This process is **irreversible by natural subuniversal means**, anchoring the energy permanently.
+
+However, NoB will **not activate** in response to:
+- Black holes consuming matter,
+- Star formation or destruction,
+- Technological or biological activity from inside the subuniverse.
+
+These are considered **self-originating processes**, not subject to external rebalancing rules.
+
+**Hydrogen transmuted by NoB can be re-converted into energy**, but only through:
+- **Antimatter collisions**, resulting in total annihilation and energy release.
+- **Black hole evaporation** via **Hawking radiation**, slowly returning mass to energy.
+
+This law ensures that **interdimensional imbalance does not cause runaway energy inflation**, allowing subuniverses to retain structure, avoid instability, and possibly even evolve into new forms.
+
+...unless, naturally, the local civilizations decide to ruin everything the old-fashioned way—**by being catastrophically stupid.**
+
+</details>
