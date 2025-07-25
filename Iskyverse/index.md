@@ -25,7 +25,7 @@ saihex_creation: true
 
 <img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/Iskyverse/IskyverseLogo.svg" alt="Iskyverse Logo">
  
-**Iskyverse** is a universe made by [IskandarAlex2](https://iskandaralex2.carrd.co/). It consist of multiple *subuniverses* such as [The 4Tris](./The4Tris).
+**Iskyverse** is a universe made by [IskandarAlex2](https://iskandaralex2.carrd.co/). It consist of multiple *subuniverses* such as [Tetraetherion](./Tetraetherion).
 
 The rule of thumb for this universe is that each creations must be originated by only one subuniverse. Each subuniverse is their own franchises and universe and may also contains their own **multiverse** independent from the rest of **Iskyverse**
 

@@ -3,7 +3,9 @@ title: "The 4Tris' Evolution"
 description: the creation of The 4Tris and its development.
 image: https://img.saihex.com/wiki_exclusive/The4Tris/The4Tris.svg
 ---
-<p class="warning_box">We are still trying to dig our own history to accurately write this page at the moment.</p>
+
+The 4Tris is Tetraetherion™'s former name before rebranding.
+This page will still refer to Tetraetherion™ as "The 4Tris" to respect timeline naming.
 
 # The 4Tris' Evolution
 The 4Tris begins with [Sairo Darling](../Characters/Sairo). Her name was firstly spelled `SAIRo` as abbreviation for **Smart Artificial Intelligence Robot** and yes she started as an AI Robot rather than [BCR](../logic/Brain_Crystal#brain-crystal-robot) that she currently is.
@@ -97,3 +99,8 @@ Rapid development in progress.
 You may join Saihex Studio Official Discord Server to follow with the development of **Sairo V5**.
 
 Or update yourself at [IskandarAlex2's Bluesky profile](https://bsky.app/profile/iskandaralex2.bsky.social)
+
+
+# The new era: Tetraehterion
+
+Full documentation will be available in the new wiki website. Stay tuned!

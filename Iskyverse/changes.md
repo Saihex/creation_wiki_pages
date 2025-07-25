@@ -5,7 +5,7 @@ image: https://img.saihex.com/wiki_exclusive/etc/changes.svg
 ---
 
 <p align="center">
-  <img src="https://img.saihex.com/wiki_exclusive/etc/changes.svg" alt="The 4Tris Logo with text" width="320" align="right">
+  <img src="https://img.saihex.com/wiki_exclusive/etc/changes.svg" alt="changes icon" width="320" align="right">
 </p>
 
 # Recent Changes
