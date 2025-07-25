@@ -1,5 +1,5 @@
 ---
-franchise_proper_name: Tetraetherion™
+franchise_proper_name: Tetraetherion
 title: Home
 description: "Rework in progress."
 ico_image: https://s3.saihex.com/wiki-assets/Tetraetherion/Tetraetherion.svg
