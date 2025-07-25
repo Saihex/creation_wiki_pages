@@ -5,7 +5,7 @@ description: "Rework in progress."
 ico_image: https://s3.saihex.com/wiki-assets/Tetraetherion/Tetraetherion.svg
 wiki_head_image: https://s3.saihex.com/wiki-assets/Tetraetherion/text_logo.svg
 default_embed_image: https://s3.saihex.com/wiki-assets/Tetraetherion/IntroImage.webp
-image: https://s3.saihex.com/wiki-assets/Tetraetherion/IntroImage.webp
+image: https://s3.saihex.com/wiki-assets/Tetraetherion/Tetraetherion.svg
 saihex_creation: true
 ---
 
