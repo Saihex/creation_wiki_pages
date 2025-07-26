@@ -1,10 +1,10 @@
 ---
 title: Subuniverses
 description: The core idea of how Iskyverse Subuniverses work.
-image: https://img.saihex.com/wiki_exclusive/Iskyverse/subuniverses.svg
+image: https://s3.saihex.com/webp?src=wiki-assets/Iskyverse/images/subuniverses_icon.svg
 ---
 # Subuniverses
-<img alt="Iskyverse Subuniverse Icon" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/Iskyverse/subuniverses.svg">
+<img alt="Iskyverse Subuniverse Icon" align="right" width="200" src="https://s3.saihex.com/wiki-assets/Iskyverse/images/subuniverses_icon.svg">
 
 To understand how **Iskyverse subuniverses** work, we first need to understand how a [Venn Diagram](https://byjus.com/maths/venn-diagrams/) functions.
 
@@ -18,7 +18,7 @@ This kind of difference is referred to as **External Physical Properties**—mea
 
 ## 🚪 Exiting a Subuniverse
 
-Even quantum physics isn’t enough to bypass a subuniverse's boundary. To exit a subuniverse, a special kind of physical attribute is required—called **magic**, duh. Only a select few subuniverses have been granted magic, such as [The 4Tris](https://wiki.saihex.com/wiki/The4Tris/).
+Even quantum physics isn’t enough to bypass a subuniverse's boundary. To exit a subuniverse, a special kind of physical attribute is required—called **magic**, duh. Only a select few subuniverses have been granted magic, such as [Tetraetherion](https://wiki.saihex.com/wiki/Tetraetherion/).
 
 So far, **only Isky** can freely exit any subuniverse and exist in **The Between**—the void that represents the universal set. Nothing else can exist there without its physical properties collapsing into nonexistence.
 

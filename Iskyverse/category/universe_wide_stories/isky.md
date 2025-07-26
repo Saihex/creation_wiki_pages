@@ -1,10 +1,10 @@
 ---
 title: The origin of Isky
 description: The origin of the creator
-image: https://img.saihex.com/wiki_exclusive/Iskyverse/IskyverseLogo.svg
+image: https://s3.saihex.com/webp?src=wiki-assets/Iskyverse/IskyverseLogo.svg
 ---
 # Isky's origin
-<img alt="Iskyverse Logo" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/Iskyverse/IskyverseLogo.svg">
+<img alt="Iskyverse Logo" align="right" width="200" src="https://s3.saihex.com/wiki-assets/Iskyverse/IskyverseLogo.svg">
 
 The short story is written by Isky in her first writing you can get here: [Isky.pdf](https://img.saihex.com/wiki_exclusive/Iskyverse/pdf/Isky.pdf)
 

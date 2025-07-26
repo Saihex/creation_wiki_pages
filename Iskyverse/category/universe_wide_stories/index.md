@@ -1,7 +1,7 @@
 ---
 title: Universe-wide Stories
 description: Iskyverse as a whole also has its own stories such as the creation of subuniverses.
-image: https://img.saihex.com/wiki_exclusive/Iskyverse/CAT-1_Symbol.svg
+image: https://s3.saihex.com/webp?src=wiki-assets/Iskyverse/CanonAlignmentTypes/CAT-1_Symbol.svg
 ---
-# Official Contents
-Iskyverse as a whole also has its own stories such as the creation of subuniverses.
+# Universe Wide Stories
+Stories that happened within Iskyverse that affected every single subuniverses too.

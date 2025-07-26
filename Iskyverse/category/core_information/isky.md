@@ -1,10 +1,10 @@
 ---
 title: Isky
 description: Isky itself, herself.
-image: https://img.saihex.com/wiki_exclusive/Iskyverse/Iskys_forms.webp
+image: https://s3.saihex.com/wiki-assets/Iskyverse/images/Iskys_Forms.webp
 ---
 # Isky
-<img alt="Isky's forms" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/Iskyverse/Iskys_forms.webp">
+<img alt="Isky's forms" align="right" width="200" src="https://s3.saihex.com/wiki-assets/Iskyverse/images/Iskys_Forms.webp">
 
 See Isky's origin story to better understand her beginnings: [Isky](../universe_wide_stories/isky)
 

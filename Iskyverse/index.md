@@ -2,15 +2,15 @@
 franchise_proper_name: Iskyverse
 title: Home
 description: "A universe that has its own subunniverses, just like a Venn Diagram."
-ico_image: https://img.saihex.com/wiki_exclusive/Iskyverse/IskyverseLogo.svg
-wiki_head_image: https://img.saihex.com/wiki_exclusive/Iskyverse/IskyverseTitleLogo.svg
-default_embed_image: https://img.saihex.com/webp?src=wiki_exclusive/Iskyverse/IskyverseTitleLogo.svg
-image: https://img.saihex.com/wiki_exclusive/Iskyverse/IskyverseLogo.svg
+ico_image: https://s3.saihex.com/wiki-assets/Iskyverse/IskyverseLogo.svg
+wiki_head_image: https://s3.saihex.com/wiki-assets/Iskyverse/text_logo.svg
+default_embed_image: https://s3.saihex.com/webp?src=wiki-assets/Iskyverse/text_logo.svg
+image: https://s3.saihex.com/wiki-assets/Iskyverse/IskyverseLogo.svg
 saihex_creation: true
 ---
 
 <p align="center">
-  <img src="https://img.saihex.com/wiki_exclusive/Iskyverse/IskyverseTitleLogo.svg" alt="Iskyverse Logo with Text" width="512">
+  <img src="https://s3.saihex.com/wiki-assets/Iskyverse/text_logo.svg" alt="Iskyverse Logo with Text" width="512">
 </p>
 
 <h1 align="center">
@@ -23,7 +23,7 @@ saihex_creation: true
 
 ## Introduction
 
-<img align="right" width="200" src="https://img.saihex.com/wiki_exclusive/Iskyverse/IskyverseLogo.svg" alt="Iskyverse Logo">
+<img align="right" width="200" src="https://s3.saihex.com/wiki-assets/Iskyverse/IskyverseLogo.svg" alt="Iskyverse Logo">
  
 **Iskyverse** is a universe made by [IskandarAlex2](https://iskandaralex2.carrd.co/). It consist of multiple *subuniverses* such as [Tetraetherion](./Tetraetherion).
 

@@ -1,10 +1,10 @@
 ---
 title: Canon Alignment Type
 description: A system for creators to tell viewers whether a content is following the canon or not.
-image: https://img.saihex.com/wiki_exclusive/Iskyverse/CAT-1_Symbol.svg
+image: https://s3.saihex.com/webp?src=wiki-assets/Iskyverse/CanonAlignmentTypes/CAT-1_Symbol.svg
 ---
 # Canon Alignment Type
-<img alt="Isky's forms" align="right" width="200" src="https://img.saihex.com/wiki_exclusive/Iskyverse/CAT-1_Symbol.svg">
+<img alt="Isky's forms" align="right" width="200" src="https://s3.saihex.com/wiki-assets/Iskyverse/CanonAlignmentTypes/CAT-1_Symbol.svg">
 
 **Canon Alignment Type**, also known as **CAT**, is a classification system used in the **Iskyverse** to determine whether a piece of content—such as films or games—created by [IskandarAlex2](https://iskandaralex2.carrd.co/) or other creators, aligns with the official canon.
 
@@ -16,7 +16,7 @@ Only [IskandarAlex2](https://iskandaralex2.carrd.co/) can assign a work as Canon
 
 ## Canon Alignment Type: Canon (CAT-1)
 
-<img alt="CAT-1 Symbol" align="right" width="300" src="https://img.saihex.com/wiki_exclusive/Iskyverse/CAT-1.svg">
+<img alt="CAT-1 Symbol" align="right" width="300" src="https://s3.saihex.com/wiki-assets/Iskyverse/CanonAlignmentTypes/CAT-1.svg">
 
 **Canon Alignment Type: Canon** or **CAT-1** indicates that a piece of content is **essential** to the franchise's main storyline and timeline. 
 
@@ -26,7 +26,7 @@ All content under this type must be rated **Teen (13+)** to ensure that younger 
 
 ## Canon Alignment Type: Gapfill (CAT-2)
 
-<img alt="CAT-2 Symbol" align="right" width="300" src="https://img.saihex.com/wiki_exclusive/Iskyverse/CAT-2.svg">
+<img alt="CAT-2 Symbol" align="right" width="300" src="https://s3.saihex.com/wiki-assets/Iskyverse/CanonAlignmentTypes/CAT-2.svg">
 
 **Canon Alignment Type: Gapfill** or **CAT-2** designates content that still fits within the storyline and timeline of the franchise, but is **not essential** for understanding the main plot.
 
@@ -38,7 +38,7 @@ Content under this type can be rated **Teen (13+)** or **Mature (17+)**, as miss
 
 ## Canon Alignment Type: Diversion (CAT-3)
 
-<img alt="CAT-3 Symbol" align="right" width="300" src="https://img.saihex.com/wiki_exclusive/Iskyverse/CAT-3.svg">
+<img alt="CAT-3 Symbol" align="right" width="300" src="https://s3.saihex.com/wiki-assets/Iskyverse/CanonAlignmentTypes/CAT-3.svg">
 
 **Canon Alignment Type: Diversion** or **CAT-3** refers to **non-canon** content. These may diverge from a certain point in the main timeline—similar to a [Git fork](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/command-line-GitHub-fork-CLI-terminal-shell).
 
